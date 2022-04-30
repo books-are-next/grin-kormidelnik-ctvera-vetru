@@ -1,9 +1,10 @@
 ---
-title: Historie jedné vraždy
 contentType: prose
 ---
 
-## I
+## Historie jedné vraždy
+
+### I
 
   
 
@@ -71,7 +72,7 @@ Bannikov si upravil řemen, vytažený sumkou, sundal s hřebíku měděný ča
 
 „Tak dobře.“ Bannikov otevřel dveře a zmizel.
 
-## II
+### II
 
   
 
@@ -99,7 +100,7 @@ Odpověď nedostal, zaslechl jen lehké pohvizdování. Už chtěl odejít, kdy�
 
 „Á-le!“ pochybovačně protáhl Bannikov. Ale zmocnil se ho podivný neklid, že se až zadýchal. Došel ke strážnici a otevřel dveře.
 
-## III
+### III
 
   
 
@@ -193,7 +194,7 @@ Kousek, který chtěl Volavkovi provést, dopadl smutně, a to ho zmátlo a ro
 
 „To máš radost, žes mi to přivolal, co, vráno jedna,“ utrhl se desátník. „Koukej, pán se nese s čajem.“
 
-## VI
+### VI
 
   
 
@@ -291,7 +292,7 @@ Ulehl na pryčnu, zívl, div si nevyvrátil sanice, pak si strčil pod hlavu svi
 
 Volavkovi se spát nechtělo. Dlouho zuřivě zíval a přemítal, jak ubít čas. Bannikovova snědá tvář, zarudlá po políčku, se mu bůhvíproč míhala před očima a rozněcovala v něm zlost, vztekal se na sebe i na mladého vojáka a vůbec na celý ten smolařský den. Nejen že musel vzít stráž, ale ještě ke všemu prohrál ráno v kartách rubl šedesát a neměl teď ani vindru. Vyndal z kapsy nůž, škrábal jím po stole a prsty olupoval třísky. Pak plivl na závaží pendlovek, ale netrefil, a tak začal počítat kmity kyvadla. Když napočítal do třiceti, omrzelo ho to, narazil si čepici a vyšel ze strážnice.
 
-## V
+### V
 
   
 

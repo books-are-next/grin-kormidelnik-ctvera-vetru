@@ -1,0 +1,547 @@
+{
+  "author": "Alexandr Grin",
+  "contenttype": "prose",
+  "identifier": "grin-kormidelnik-ctvera-vetru-2df44bb",
+  "languagecode": "cs",
+  "modified": "2022-03-17T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "MKP",
+  "title": "Kormidelník čtvera větrů",
+  "revision": "2df44bb",
+  "generatedAt": {
+    "date": "Sat Apr 30 2022 08:55:25 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1651308925193
+  },
+  "documents": [
+    {
+      "title": "Kormidelník čtvera větrů",
+      "file": "kormidelnik_ctvera_vetru_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "kormidelnik_ctvera_vetru_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kormidelník čtvera větrů",
+      "file": "kormidelnik_ctvera_vetru_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "kormidelnik_ctvera_vetru_001.html",
+      "next": "kormidelnik_ctvera_vetru_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kormidelník čtvera větrů",
+      "file": "kormidelnik_ctvera_vetru_003.html",
+      "words": 10,
+      "chars": 72,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 2,
+      "prev": "kormidelnik_ctvera_vetru_002.html",
+      "next": "kormidelnik_ctvera_vetru_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kormidelník čtvera větrů",
+      "file": "kormidelnik_ctvera_vetru_004.html",
+      "words": 103,
+      "chars": 673,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 3,
+      "prev": "kormidelnik_ctvera_vetru_003.html",
+      "next": "kormidelnik_ctvera_vetru_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kormidelník čtvera větrů",
+      "file": "kormidelnik_ctvera_vetru_005.html",
+      "words": 4903,
+      "chars": 29552,
+      "ideas": 168,
+      "role": "chapter",
+      "order": 4,
+      "prev": "kormidelnik_ctvera_vetru_004.html",
+      "next": "kormidelnik_ctvera_vetru_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Historie jedné vraždy",
+              "id": "historie-jedné-vraždy",
+              "children": [
+                {
+                  "index": 2,
+                  "level": 3,
+                  "name": "I",
+                  "id": "i",
+                  "children": []
+                },
+                {
+                  "index": 3,
+                  "level": 3,
+                  "name": "II",
+                  "id": "ii",
+                  "children": []
+                },
+                {
+                  "index": 4,
+                  "level": 3,
+                  "name": "III",
+                  "id": "iii",
+                  "children": []
+                },
+                {
+                  "index": 5,
+                  "level": 3,
+                  "name": "VI",
+                  "id": "vi",
+                  "children": []
+                },
+                {
+                  "index": 6,
+                  "level": 3,
+                  "name": "V",
+                  "id": "v",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kormidelník čtvera větrů",
+      "file": "kormidelnik_ctvera_vetru_006.html",
+      "words": 6068,
+      "chars": 37402,
+      "ideas": 217,
+      "role": "chapter",
+      "order": 5,
+      "prev": "kormidelnik_ctvera_vetru_005.html",
+      "next": "kormidelnik_ctvera_vetru_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Paluba a podpalubí",
+              "id": "paluba-apodpalubí",
+              "children": [
+                {
+                  "index": 2,
+                  "level": 3,
+                  "name": "I",
+                  "id": "i",
+                  "children": []
+                },
+                {
+                  "index": 3,
+                  "level": 3,
+                  "name": "II",
+                  "id": "ii",
+                  "children": []
+                },
+                {
+                  "index": 4,
+                  "level": 3,
+                  "name": "III",
+                  "id": "iii",
+                  "children": []
+                },
+                {
+                  "index": 5,
+                  "level": 3,
+                  "name": "IV",
+                  "id": "iv",
+                  "children": []
+                },
+                {
+                  "index": 6,
+                  "level": 3,
+                  "name": "V",
+                  "id": "v",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kormidelník čtvera větrů",
+      "file": "kormidelnik_ctvera_vetru_007.html",
+      "words": 6563,
+      "chars": 40200,
+      "ideas": 199,
+      "role": "chapter",
+      "order": 6,
+      "prev": "kormidelnik_ctvera_vetru_006.html",
+      "next": "kormidelnik_ctvera_vetru_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Ostrov Reno",
+              "id": "ostrov-reno",
+              "children": [
+                {
+                  "index": 2,
+                  "level": 3,
+                  "name": "Jeden chybí",
+                  "id": "jeden-chybí",
+                  "children": []
+                },
+                {
+                  "index": 3,
+                  "level": 3,
+                  "name": "Co říká les",
+                  "id": "conbspříká-les",
+                  "children": []
+                },
+                {
+                  "index": 4,
+                  "level": 3,
+                  "name": "Blemer nalézá Tarta",
+                  "id": "blemer-nalézá-tarta",
+                  "children": []
+                },
+                {
+                  "index": 5,
+                  "level": 3,
+                  "name": "„Garnache, Kohoutí ulice“",
+                  "id": "garnache-kohoutí-ulice",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kormidelník čtvera větrů",
+      "file": "kormidelnik_ctvera_vetru_008.html",
+      "words": 1676,
+      "chars": 9887,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 7,
+      "prev": "kormidelnik_ctvera_vetru_007.html",
+      "next": "kormidelnik_ctvera_vetru_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kormidelník „čtvera větrů“",
+              "id": "kormidelník-čtvera-větrů",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kormidelník čtvera větrů",
+      "file": "kormidelnik_ctvera_vetru_009.html",
+      "words": 15995,
+      "chars": 97663,
+      "ideas": 546,
+      "role": "chapter",
+      "order": 8,
+      "prev": "kormidelnik_ctvera_vetru_008.html",
+      "next": "kormidelnik_ctvera_vetru_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kolonie Lanfieri",
+              "id": "kolonie-lanfieri",
+              "children": [
+                {
+                  "index": 2,
+                  "level": 3,
+                  "name": "I",
+                  "id": "i",
+                  "children": []
+                },
+                {
+                  "index": 3,
+                  "level": 3,
+                  "name": "II",
+                  "id": "ii",
+                  "children": []
+                },
+                {
+                  "index": 4,
+                  "level": 3,
+                  "name": "III",
+                  "id": "iii",
+                  "children": []
+                },
+                {
+                  "index": 5,
+                  "level": 3,
+                  "name": "IV",
+                  "id": "iv",
+                  "children": []
+                },
+                {
+                  "index": 6,
+                  "level": 3,
+                  "name": "V",
+                  "id": "v",
+                  "children": []
+                },
+                {
+                  "index": 7,
+                  "level": 3,
+                  "name": "VI",
+                  "id": "vi",
+                  "children": []
+                },
+                {
+                  "index": 8,
+                  "level": 3,
+                  "name": "VII",
+                  "id": "vii",
+                  "children": []
+                },
+                {
+                  "index": 9,
+                  "level": 3,
+                  "name": "VIII",
+                  "id": "viii",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kormidelník čtvera větrů",
+      "file": "kormidelnik_ctvera_vetru_010.html",
+      "words": 11259,
+      "chars": 69298,
+      "ideas": 365,
+      "role": "chapter",
+      "order": 9,
+      "prev": "kormidelnik_ctvera_vetru_009.html",
+      "next": "kormidelnik_ctvera_vetru_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Úžina mořských bouří",
+              "id": "úžina-mořských-bouří",
+              "children": [
+                {
+                  "index": 2,
+                  "level": 3,
+                  "name": "I",
+                  "id": "i",
+                  "children": []
+                },
+                {
+                  "index": 3,
+                  "level": 3,
+                  "name": "II",
+                  "id": "ii",
+                  "children": []
+                },
+                {
+                  "index": 4,
+                  "level": 3,
+                  "name": "III",
+                  "id": "iii",
+                  "children": []
+                },
+                {
+                  "index": 5,
+                  "level": 3,
+                  "name": "IV",
+                  "id": "iv",
+                  "children": []
+                },
+                {
+                  "index": 6,
+                  "level": 3,
+                  "name": "V",
+                  "id": "v",
+                  "children": []
+                },
+                {
+                  "index": 7,
+                  "level": 3,
+                  "name": "VI",
+                  "id": "vi",
+                  "children": []
+                },
+                {
+                  "index": 8,
+                  "level": 3,
+                  "name": "VII",
+                  "id": "vii",
+                  "children": []
+                },
+                {
+                  "index": 9,
+                  "level": 3,
+                  "name": "VIII",
+                  "id": "viii",
+                  "children": []
+                },
+                {
+                  "index": 10,
+                  "level": 3,
+                  "name": "IX",
+                  "id": "ix",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kormidelník čtvera větrů",
+      "file": "kormidelnik_ctvera_vetru_011.html",
+      "words": 2706,
+      "chars": 17194,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 10,
+      "prev": "kormidelnik_ctvera_vetru_010.html",
+      "next": "kormidelnik_ctvera_vetru_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Fantasta ze Zurbaganu",
+              "id": "fantasta-zenbspzurbaganu",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kormidelník čtvera větrů",
+      "file": "kormidelnik_ctvera_vetru_012.html",
+      "words": 52,
+      "chars": 353,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 11,
+      "prev": "kormidelnik_ctvera_vetru_011.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 49342,
+      "chars": 302339,
+      "ideas": 1569
+    },
+    "chapters": {
+      "words": 49335,
+      "chars": 302294,
+      "ideas": 1565
+    }
+  }
+}

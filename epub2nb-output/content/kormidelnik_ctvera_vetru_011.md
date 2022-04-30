@@ -1,7 +1,8 @@
 ---
-title: Fantasta ze Zurbaganu
 contentType: prose
 ---
+
+## Fantasta ze Zurbaganu
 
   
 

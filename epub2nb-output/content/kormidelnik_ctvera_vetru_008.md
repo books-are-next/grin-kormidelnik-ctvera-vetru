@@ -1,7 +1,8 @@
 ---
-title: Kormidelník „čtvera větrů“
 contentType: prose
 ---
+
+## Kormidelník „čtvera větrů“
 
 _… V celém širém okolí nebylo člověka,  
 který by ho mohl zaslechnout._
