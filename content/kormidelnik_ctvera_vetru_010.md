@@ -1,9 +1,10 @@
 ---
-title: Úžina mořských bouří
 contentType: prose
 ---
 
-## I
+## Úžina mořských bouří
+
+### I
 
   
 
@@ -39,7 +40,7 @@ Těžce padl na obličej – notná dávka alkoholu a slunce mu podrazila nohy
 
 „Zrovna když se to nejmíň hodí,“ zabručel Sigby. „Zejtra jsme měli odplout. Ten by mě naštval! Chlapi se zaručeně poperou. A tak je to vždycky,“ zakončil a vztekle dupl. „Tak je to vždycky, když někomu vlezou do palice divoký nápady. To má z toho, že nechlastal tak, jak ksakru chlastá každej, že neseděl pěkně u stolu pod střechou, jak se na správnýho námořníka sluší!“
 
-## II
+### II
 
   
 
@@ -205,7 +206,7 @@ Půltuctu rukou mu dopadlo na ramena, ještě než domluvil. Ten drsný projev s
 
 „Prokristapána, Allane,“ řekl Sigby, „ty jsi ale prosťáček. Já ti povídám, že nejeden z nás dostane pár kulek do těla, než uslyšíš volání nového kapitána: Připravit se k odplutí!“
 
-## III
+### III
 
   
 
@@ -329,7 +330,7 @@ Allan přistoupil k zábradlí na boku lodi a odměřeně kývl hlavou.
 
 „Jedu, Harweyi.“
 
-## IV
+### IV
 
   
 
@@ -361,7 +362,7 @@ Na pobřeží těžce zaduněla ozvěna a zmlkla. Allan zatoužil setřást tic
 
 Odmlčel se, usedl, chopil se vesel a zprudka zabral – pobledl skrytou a vášnivou myšlenkou, opovážlivou jako polibek násilníka.
 
-## V
+### V
 
   
 
@@ -393,7 +394,7 @@ Dal se skoro do běhu – všude bylo prázdno, nikde známka života. Chodil z
 
 Na okamžik pocítil v nitru tupou bolest. Byl zmaten, vyjeven, byl strašlivě sám. Vrhl se do úzké chodbičky, vyběhl na zasklenou terasu, ozářenou sluncem, otevřel ještě jedny dveře a omráčen překvapením a udýchán se zastavil, všechna odvaha z něj rázem vyprchala.
 
-## VI
+### VI
 
   
 
@@ -537,7 +538,7 @@ Nakonec to rozjímání Stellu unavilo. Zastavila se před Allanem.
 
 „Vyprávějte mi o své lodi a o mém… Padovi.“
 
-## VII
+### VII
 
   
 
@@ -583,7 +584,7 @@ Zapotácel se – otevřel dveře. Dívka-vidina mu zamyšleně hleděla do obl
 
 „Přijdu!“
 
-## VIII
+### VIII
 
   
 
@@ -627,7 +628,7 @@ Nepřátelé se srazili a rozešli se. Mihla se kluzká kamenná hlava, rozlept
 
 Třásl se křečovitým smíchem. Odhodil veslo a usedl. Co s ním bylo dál, na to se nepamatoval. Vědomí měl otupené, slabým, chorobným úsilím myšlenky zachytil ještě šramot – člun uvázl na mělčině – suchý vzduch na břehu, ticho… Kdosi – snad to byl on – se brodil po kolena ve vodě, propadal se chodidly do měkkého jílu… Šumění lesa, mokrý písek, vyčerpání…
 
-## IX
+### IX
 
   
 
