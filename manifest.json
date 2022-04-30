@@ -1,38 +1,18 @@
 {
   "author": "Alexandr Grin",
   "contenttype": "prose",
-  "identifier": "grin-kormidelnik-ctvera-vetru-2df44bb",
+  "identifier": "grin-kormidelnik-ctvera-vetru-ac47e8f",
   "languagecode": "cs",
   "modified": "2022-03-17T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "MKP",
   "title": "Kormidelník čtvera větrů",
-  "revision": "2df44bb",
+  "revision": "ac47e8f",
   "generatedAt": {
-    "date": "Sat Apr 30 2022 08:55:25 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1651308925193
+    "date": "Sat Apr 30 2022 09:04:42 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1651309482961
   },
   "documents": [
-    {
-      "title": "Kormidelník čtvera větrů",
-      "file": "kormidelnik_ctvera_vetru_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "kormidelnik_ctvera_vetru_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Kormidelník čtvera větrů",
       "file": "kormidelnik_ctvera_vetru_002.html",
@@ -40,48 +20,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "kormidelnik_ctvera_vetru_001.html",
-      "next": "kormidelnik_ctvera_vetru_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Kormidelník čtvera větrů",
-      "file": "kormidelnik_ctvera_vetru_003.html",
-      "words": 10,
-      "chars": 72,
-      "ideas": 3,
-      "role": "chapter",
-      "order": 2,
-      "prev": "kormidelnik_ctvera_vetru_002.html",
-      "next": "kormidelnik_ctvera_vetru_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Kormidelník čtvera větrů",
-      "file": "kormidelnik_ctvera_vetru_004.html",
-      "words": 103,
-      "chars": 673,
-      "ideas": 9,
-      "role": "chapter",
-      "order": 3,
-      "prev": "kormidelnik_ctvera_vetru_003.html",
+      "order": 0,
+      "prev": null,
       "next": "kormidelnik_ctvera_vetru_005.html",
       "toc": [
         {
@@ -100,8 +40,8 @@
       "chars": 29552,
       "ideas": 168,
       "role": "chapter",
-      "order": 4,
-      "prev": "kormidelnik_ctvera_vetru_004.html",
+      "order": 1,
+      "prev": "kormidelnik_ctvera_vetru_002.html",
       "next": "kormidelnik_ctvera_vetru_006.html",
       "toc": [
         {
@@ -164,7 +104,7 @@
       "chars": 37402,
       "ideas": 217,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "kormidelnik_ctvera_vetru_005.html",
       "next": "kormidelnik_ctvera_vetru_007.html",
       "toc": [
@@ -228,7 +168,7 @@
       "chars": 40200,
       "ideas": 199,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "kormidelnik_ctvera_vetru_006.html",
       "next": "kormidelnik_ctvera_vetru_008.html",
       "toc": [
@@ -285,7 +225,7 @@
       "chars": 9887,
       "ideas": 25,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "kormidelnik_ctvera_vetru_007.html",
       "next": "kormidelnik_ctvera_vetru_009.html",
       "toc": [
@@ -313,7 +253,7 @@
       "chars": 97663,
       "ideas": 546,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "kormidelnik_ctvera_vetru_008.html",
       "next": "kormidelnik_ctvera_vetru_010.html",
       "toc": [
@@ -398,7 +338,7 @@
       "chars": 69298,
       "ideas": 365,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "kormidelnik_ctvera_vetru_009.html",
       "next": "kormidelnik_ctvera_vetru_011.html",
       "toc": [
@@ -490,9 +430,9 @@
       "chars": 17194,
       "ideas": 21,
       "role": "chapter",
-      "order": 10,
+      "order": 7,
       "prev": "kormidelnik_ctvera_vetru_010.html",
-      "next": "kormidelnik_ctvera_vetru_012.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -512,20 +452,20 @@
       ]
     },
     {
-      "title": "Kormidelník čtvera větrů",
-      "file": "kormidelnik_ctvera_vetru_012.html",
-      "words": 52,
-      "chars": 353,
-      "ideas": 12,
-      "role": "chapter",
-      "order": 11,
+      "title": "Tiráž • Kormidelník čtvera větrů",
+      "file": "colophon.html",
+      "words": 166,
+      "chars": 1103,
+      "ideas": 25,
+      "role": "colophon",
+      "order": null,
       "prev": "kormidelnik_ctvera_vetru_011.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -539,9 +479,9 @@
       "ideas": 1569
     },
     "chapters": {
-      "words": 49335,
-      "chars": 302294,
-      "ideas": 1565
+      "words": 49170,
+      "chars": 301196,
+      "ideas": 1541
     }
   }
 }

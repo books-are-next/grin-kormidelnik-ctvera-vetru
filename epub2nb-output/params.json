@@ -39,9 +39,9 @@
             "filename": "kormidelnik_ctvera_vetru_001.md",
             "xhtml": "kormidelnik_ctvera_vetru_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -51,9 +51,9 @@
             "filename": "kormidelnik_ctvera_vetru_002.md",
             "xhtml": "kormidelnik_ctvera_vetru_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -63,9 +63,9 @@
             "filename": "kormidelnik_ctvera_vetru_003.md",
             "xhtml": "kormidelnik_ctvera_vetru_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -75,9 +75,9 @@
             "filename": "kormidelnik_ctvera_vetru_004.md",
             "xhtml": "kormidelnik_ctvera_vetru_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -93,8 +93,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Historie jedné vraždy"
+            "title": "Historie jedné vraždy",
+            "children": []
           },
           {
             "filename": "kormidelnik_ctvera_vetru_006.md",
@@ -106,8 +106,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Paluba a podpalubí"
+            "title": "Paluba a podpalubí",
+            "children": []
           },
           {
             "filename": "kormidelnik_ctvera_vetru_007.md",
@@ -119,8 +119,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Ostrov Reno"
+            "title": "Ostrov Reno",
+            "children": []
           },
           {
             "filename": "kormidelnik_ctvera_vetru_008.md",
@@ -132,8 +132,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Kormidelník „čtvera větrů“"
+            "title": "Kormidelník „čtvera větrů“",
+            "children": []
           },
           {
             "filename": "kormidelnik_ctvera_vetru_009.md",
@@ -145,8 +145,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Kolonie Lanfieri"
+            "title": "Kolonie Lanfieri",
+            "children": []
           },
           {
             "filename": "kormidelnik_ctvera_vetru_010.md",
@@ -158,8 +158,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Úžina mořských bouří"
+            "title": "Úžina mořských bouří",
+            "children": []
           },
           {
             "filename": "kormidelnik_ctvera_vetru_011.md",
@@ -171,16 +171,16 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Fantasta ze Zurbaganu"
+            "title": "Fantasta ze Zurbaganu",
+            "children": []
           },
           {
             "filename": "kormidelnik_ctvera_vetru_012.md",
             "xhtml": "kormidelnik_ctvera_vetru_012.xhtml",
             "id": 11,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -346,6 +346,6 @@
       "user": "books-are-next",
       "repo": "grin-kormidelnik-ctvera-vetru"
     },
-    "generatedAt": 1651308856842
+    "generatedAt": 1651309426136
   }
 }

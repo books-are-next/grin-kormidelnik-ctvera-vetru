@@ -13,10 +13,7 @@ meta:
   modified: '2022-03-17T00:00:00.000Z'
   publisherShort: MKP
 readingOrder:
-  - kormidelnik_ctvera_vetru_001.html
   - kormidelnik_ctvera_vetru_002.html
-  - kormidelnik_ctvera_vetru_003.html
-  - kormidelnik_ctvera_vetru_004.html
   - kormidelnik_ctvera_vetru_005.html
   - kormidelnik_ctvera_vetru_006.html
   - kormidelnik_ctvera_vetru_007.html
@@ -24,7 +21,7 @@ readingOrder:
   - kormidelnik_ctvera_vetru_009.html
   - kormidelnik_ctvera_vetru_010.html
   - kormidelnik_ctvera_vetru_011.html
-  - kormidelnik_ctvera_vetru_012.html
+  - colophon.html
 tocBase:
   - id: section-1
     children:
