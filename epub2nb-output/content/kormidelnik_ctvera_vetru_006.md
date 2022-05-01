@@ -1,8 +1,7 @@
 ---
+title: "Paluba a\_podpalubí"
 contentType: prose
 ---
-
-## Paluba a podpalubí
 
 (Námořní obrázky)
 

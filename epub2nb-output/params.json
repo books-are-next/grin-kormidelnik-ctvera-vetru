@@ -8,12 +8,13 @@
       "author": "Alexandr Grin",
       "publisher": "Městská knihovna v Praze",
       "modified": "2022-03-17T00:00:00.000Z",
-      "publisherShort": "MKP"
+      "publisherShort": "MKP",
+      "isbn": "978-80-274-2245-6; 978-80-274-2244-9; 978-80-274-2246-3"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\n",
+      "title": "MLP-uroven2-kapitola\nMLP_uroven2_kapitola\n",
       "subtitle": "",
-      "h2": "MLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "h2": "",
       "h3": "MLP-uroven3-nadpis, MLP_uroven3_nadpis\n",
       "h4": "",
       "hr": "",
@@ -224,43 +225,43 @@
         "xhtml": "kormidelnik_ctvera_vetru_004.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Historie jedné vraždy",
         "subtitleSuggest": "",
         "filename": "kormidelnik_ctvera_vetru_005.md",
         "xhtml": "kormidelnik_ctvera_vetru_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Paluba a podpalubí",
         "subtitleSuggest": "",
         "filename": "kormidelnik_ctvera_vetru_006.md",
         "xhtml": "kormidelnik_ctvera_vetru_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ostrov Reno",
         "subtitleSuggest": "",
         "filename": "kormidelnik_ctvera_vetru_007.md",
         "xhtml": "kormidelnik_ctvera_vetru_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kormidelník „čtvera větrů“",
         "subtitleSuggest": "",
         "filename": "kormidelnik_ctvera_vetru_008.md",
         "xhtml": "kormidelnik_ctvera_vetru_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kolonie Lanfieri",
         "subtitleSuggest": "",
         "filename": "kormidelnik_ctvera_vetru_009.md",
         "xhtml": "kormidelnik_ctvera_vetru_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Úžina mořských bouří",
         "subtitleSuggest": "",
         "filename": "kormidelnik_ctvera_vetru_010.md",
         "xhtml": "kormidelnik_ctvera_vetru_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Fantasta ze Zurbaganu",
         "subtitleSuggest": "",
         "filename": "kormidelnik_ctvera_vetru_011.md",
         "xhtml": "kormidelnik_ctvera_vetru_011.xhtml"
@@ -346,6 +347,6 @@
       "user": "books-are-next",
       "repo": "grin-kormidelnik-ctvera-vetru"
     },
-    "generatedAt": 1651309426136
+    "generatedAt": 1651404902459
   }
 }
