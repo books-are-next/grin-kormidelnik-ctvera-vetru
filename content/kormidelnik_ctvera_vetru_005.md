@@ -1,8 +1,7 @@
 ---
+title: Historie jedné vraždy
 contentType: prose
 ---
-
-## Historie jedné vraždy
 
 ### I
 

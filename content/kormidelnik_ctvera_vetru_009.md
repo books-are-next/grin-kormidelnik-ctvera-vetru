@@ -1,8 +1,7 @@
 ---
+title: Kolonie Lanfieri
 contentType: prose
 ---
-
-## Kolonie Lanfieri
 
 _Tak jako námořník,  
 jenž proplouvá Jurskou úžinou,  

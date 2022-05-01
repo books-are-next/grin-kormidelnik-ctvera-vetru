@@ -1,8 +1,7 @@
 ---
+title: Úžina mořských bouří
 contentType: prose
 ---
-
-## Úžina mořských bouří
 
 ### I
 

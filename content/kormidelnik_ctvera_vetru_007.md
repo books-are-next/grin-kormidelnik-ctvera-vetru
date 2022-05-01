@@ -1,8 +1,7 @@
 ---
+title: Ostrov Reno
 contentType: prose
 ---
-
-## Ostrov Reno
 
 _Naslouchej pozorně jen tomu hlasu,  
 jenž mluví beze zvuku._
