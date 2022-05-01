@@ -5,7 +5,7 @@ contentType: prose
 
 (Námořní obrázky)
 
-### I
+## I
 
   
 
@@ -163,7 +163,7 @@ Mladík zvedl nohu na schůdek a zeptal se:
 
 Odmítnutý pasažér vylezl na palubu a s veselou tváří se vracel domů. Na bednách nic neleželo, to bylo jediné, co potřeboval vědět. Na žádnou plavbu se nechystal.
 
-### II
+## II
 
   
 
@@ -284,7 +284,7 @@ V tónu, jakým ta slova pronesl, byla obsažena spousta otázek: pít, nebo ne
 
 Poslední slova zaslechl Martyn v okamžiku, kdy jeho paty mizely v otvoru z podpalubí. Burak chvíli počkal, pak vyskočil také. V kajutě nastalo úplné ticho. Spáči chrápali, funěli, ale žádný se ani nepohnul.
 
-### III
+## III
 
   
 
@@ -332,7 +332,7 @@ Skuba zvedl ruku, aby zavřel poklop, ale škubl sebou, z podpalubí vylézal j
 
 Zamířil do kajuty – motal se jako opilý. Vyděšený Skuba třesoucími se prsty zavíral sklad. Zmocnil se ho tíživý nepokoj – úplně ztratil rozvahu.
 
-### IV
+## IV
 
   
 
@@ -404,7 +404,7 @@ Před očima jim žhnulo ohnivé slovo „Výpověď!“, ale oba je vítali, ne
 
 „Vejpověď?! Klidně! Teda klidně! Vlez mě na hrb, potvoro mořská!“
 
-### V
+## V
 
   
 

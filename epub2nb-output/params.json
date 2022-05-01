@@ -14,8 +14,8 @@
     "elements": {
       "title": "MLP-uroven2-kapitola\nMLP_uroven2_kapitola\n",
       "subtitle": "",
-      "h2": "",
-      "h3": "MLP-uroven3-nadpis, MLP_uroven3_nadpis\n",
+      "h2": "MLP_uroven3_nadpis",
+      "h3": "\n",
       "h4": "",
       "hr": "",
       "hrBefore": "",
@@ -347,6 +347,6 @@
       "user": "books-are-next",
       "repo": "grin-kormidelnik-ctvera-vetru"
     },
-    "generatedAt": 1651404902459
+    "generatedAt": 1651405305258
   }
 }

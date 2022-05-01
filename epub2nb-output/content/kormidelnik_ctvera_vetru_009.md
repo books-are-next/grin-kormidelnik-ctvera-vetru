@@ -10,7 +10,7 @@ přes bezednou hlubinu lásky._
 
 — Japonec Jositada
 
-### I
+## I
 
   
 
@@ -144,7 +144,7 @@ Obrátil se a vykročil, provázen chovatelem vepřů.
 
 Napřáhl ruku, obrátil se a udiveně mlaskl jazykem. Byl sám. Po nikom nebylo stopy.
 
-### II
+## II
 
   
 
@@ -188,7 +188,7 @@ Na severu se rozkládal tmavý les jako nehybné zelené stádo a na obzoru se 
 
 A na jihu, z prostředka mělkého údolí, kde svítily domy a farmy obklopené neúpravnou zelení, se táhly obdélníky plantáží a zoraných polí, které patřily ke kolonii Lanfieri.
 
-### III
+## III
 
   
 
@@ -420,7 +420,7 @@ Vytáhl pistoli a se smíchem se dívce uklonil.
 
 Obrátila se a vesele mávla rukou, a Hornovi se znovu zazdálo, že se její oči odpoutaly a plují vzduchem.
 
-### IV
+## IV
 
   
 
@@ -512,7 +512,7 @@ Vášnivě zatoužil, aby žena něžného obličeje, která dávala jeho duši 
 
 Před očima se mu mihla vysoko zvednutá, vyzáblá ruka Lan­fieriho, a z té vzpomínky se roztřásl. Kolonie, z neznámých důvodů pojmenovaná po člověku, který před nepatrnou chvilkou usiloval o jeho život, mu teď připadala jako pobuda ve vyspravených šatech, vykukující za plotem. Když odcházel, pečlivě zavřel dveře.
 
-### V
+## V
 
   
 
@@ -698,7 +698,7 @@ Lanfieri vstoupil nepozorovaně – zdálo se, že by své kostnaté tělo prot
 
 Stařec mlčel. Na svraštělých tvářích mu hrály svaly. Muži se vrátili ke kostkám. Lanfierimu nevěřili, ale každý z nich si někde v tmavém zákoutí paměti uložil lidi hloupé jako krokodýly, mizery a hovada.
 
-### VI
+## VI
 
   
 
@@ -866,7 +866,7 @@ Horn přistoupil k oknu – potácel se slabostí. U dveří tiše zaržál k
 
 Pravidelný cval Kingových kopyt rozrušil ticho a ztratil se.
 
-### VII
+## VII
 
   
 
@@ -966,7 +966,7 @@ Vykročil lesem, zmítal jím nepokoj, spěchal k jezeru, jak mohl nejrychleji.
 
 Už běžel, ztrácel dech nervovým vypětím. Les ho propouštěl jako hlouček bezmocných přátel, v zamyšlení se před ním rozestupoval, odhaloval stinné propasti a Horn z nich slyšel šumění krve a rozmarných zelených vln.
 
-### VIII
+## VIII
 
   
 

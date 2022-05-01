@@ -8,7 +8,7 @@ jenž mluví beze zvuku._
 
 — Staroindická moudrost
 
-### Jeden chybí
+## Jeden chybí
 
   
 
@@ -110,7 +110,7 @@ Kajuta se zaplnila. Přišel doktor, nadporučík a proviantní. Poručík proh
 
 „Všichni umřeme,“ pomyslel si poručík a radostně vydechl, vzpomněl si, že je ještě živ a že se za půl roku vrátí do starých nízkých pokojů, kde za okny šumí kaštany a kde se leskne písek, omytý sluncem.
 
-### Co říká les
+## Co říká les
 
   
 
@@ -175,7 +175,7 @@ Točila se mu hlava z vůně květin. Vyčerpáním se mu třásly ruce i nohy
 
 Nevzpouzel se. Hluboká ospalost ho něžně spoutala. Pomalu se nořil do tiché, vonné hloubky, kde potkáváme splněná přání a radost, nezkalenou člověkem. Tart spal, a když se probudil, byla noc a temné ticho, plné hvězd.
 
-### Blemer nalézá Tarta
+## Blemer nalézá Tarta
 
   
 
@@ -305,7 +305,7 @@ Raněný se zachvěl, vydechl a strnul.
 
 Teď byl mrtev. Jeho silné tělo obklopila malá zelená armáda lesní trávy a kolébajíc se, nahlédla mu do obličeje.
 
-### „Garnache, Kohoutí ulice“
+## „Garnache, Kohoutí ulice“
 
   
 
