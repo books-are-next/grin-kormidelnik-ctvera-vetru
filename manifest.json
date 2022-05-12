@@ -1,22 +1,33 @@
 {
-  "author": "Alexandr Grin",
-  "contenttype": "prose",
-  "identifier": "grin-kormidelnik-ctvera-vetru-3d8b360",
-  "isbn": "978-80-274-2245-6; 978-80-274-2244-9; 978-80-274-2246-3",
-  "languagecode": "cs",
-  "modified": "2022-03-17T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "MKP",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Kormidelník čtvera větrů",
-  "revision": "3d8b360",
+  "author": "Alexandr Grin",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "grin-kormidelnik-ctvera-vetru-5f3c7be",
+  "revision": "5f3c7be",
+  "readingOrder": [
+    "promo.html",
+    "kormidelnik_ctvera_vetru_005.html",
+    "kormidelnik_ctvera_vetru_006.html",
+    "kormidelnik_ctvera_vetru_007.html",
+    "kormidelnik_ctvera_vetru_008.html",
+    "kormidelnik_ctvera_vetru_009.html",
+    "kormidelnik_ctvera_vetru_010.html",
+    "kormidelnik_ctvera_vetru_011.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Sun May 01 2022 11:42:34 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1651405354985
+    "date": "Thu May 12 2022 10:44:03 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352243699
   },
   "documents": [
     {
-      "title": "Kormidelník čtvera větrů",
-      "file": "kormidelnik_ctvera_vetru_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,25 +35,17 @@
       "order": 0,
       "prev": null,
       "next": "kormidelnik_ctvera_vetru_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Historie jedné vraždy • Kormidelník čtvera větrů",
+      "title": "Historie jedné vraždy",
       "file": "kormidelnik_ctvera_vetru_005.html",
       "words": 4903,
       "chars": 29552,
       "ideas": 168,
       "role": "chapter",
       "order": 1,
-      "prev": "kormidelnik_ctvera_vetru_002.html",
+      "prev": "promo.html",
       "next": "kormidelnik_ctvera_vetru_006.html",
       "toc": [
         {
@@ -91,7 +94,7 @@
       ]
     },
     {
-      "title": "Paluba a podpalubí • Kormidelník čtvera větrů",
+      "title": "Paluba a podpalubí",
       "file": "kormidelnik_ctvera_vetru_006.html",
       "words": 6068,
       "chars": 37402,
@@ -147,7 +150,7 @@
       ]
     },
     {
-      "title": "Ostrov Reno • Kormidelník čtvera větrů",
+      "title": "Ostrov Reno",
       "file": "kormidelnik_ctvera_vetru_007.html",
       "words": 6563,
       "chars": 40200,
@@ -196,7 +199,7 @@
       ]
     },
     {
-      "title": "Kormidelník „čtvera větrů“ • Kormidelník čtvera větrů",
+      "title": "Kormidelník „čtvera větrů“",
       "file": "kormidelnik_ctvera_vetru_008.html",
       "words": 1676,
       "chars": 9887,
@@ -216,7 +219,7 @@
       ]
     },
     {
-      "title": "Kolonie Lanfieri • Kormidelník čtvera větrů",
+      "title": "Kolonie Lanfieri",
       "file": "kormidelnik_ctvera_vetru_009.html",
       "words": 15995,
       "chars": 97663,
@@ -293,7 +296,7 @@
       ]
     },
     {
-      "title": "Úžina mořských bouří • Kormidelník čtvera větrů",
+      "title": "Úžina mořských bouří",
       "file": "kormidelnik_ctvera_vetru_010.html",
       "words": 11259,
       "chars": 69298,
@@ -377,7 +380,7 @@
       ]
     },
     {
-      "title": "Fantasta ze Zurbaganu • Kormidelník čtvera větrů",
+      "title": "Fantasta ze Zurbaganu",
       "file": "kormidelnik_ctvera_vetru_011.html",
       "words": 2706,
       "chars": 17194,
@@ -397,11 +400,11 @@
       ]
     },
     {
-      "title": "Tiráž • Kormidelník čtvera větrů",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 166,
-      "chars": 1103,
-      "ideas": 25,
+      "words": 142,
+      "chars": 921,
+      "ideas": 19,
       "role": "colophon",
       "order": null,
       "prev": "kormidelnik_ctvera_vetru_011.html",
@@ -419,9 +422,9 @@
   ],
   "totals": {
     "all": {
-      "words": 49342,
-      "chars": 302339,
-      "ideas": 1569
+      "words": 49318,
+      "chars": 302157,
+      "ideas": 1563
     },
     "chapters": {
       "words": 49170,
