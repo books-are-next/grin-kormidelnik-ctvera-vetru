@@ -14,7 +14,7 @@ meta:
   publisherShort: MKP
   isbn: 978-80-274-2245-6; 978-80-274-2244-9; 978-80-274-2246-3
 readingOrder:
-  - kormidelnik_ctvera_vetru_002.html
+  - promo.html
   - kormidelnik_ctvera_vetru_005.html
   - kormidelnik_ctvera_vetru_006.html
   - kormidelnik_ctvera_vetru_007.html
