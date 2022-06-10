@@ -3,6 +3,8 @@ title: Ostrov Reno
 contentType: prose
 ---
 
+<section>
+
 _Naslouchej pozorně jen tomu hlasu,  
 jenž mluví beze zvuku._
 
@@ -138,7 +140,9 @@ Tartův zrak se znovu vrátil k trávě – palouk ho lákal, tak byl svěží
 
 Tart se prudce zachvěl láskou k světu – natáhl ruku a v duchu se dotkl skalnatých vrcholků. Jeho srdce se nadšeně přimklo k opuštěnému majestátu lesa – neviditelná hebká ruka ho objala kolem krku a Tart v tom objetí zadržoval dech, aby se nerozplakal. A tehdy zaznělo volání, jež probudilo les. Tart volal a v očích se mu leskly slzy. Jeho hlas letěl k vodopádům, rozbíjel se o kamenné stupně a v trojnásobné ozvěně se měnil v píseň, v píseň vášnivou a prostou, kterou vyvolal náhlý, trýznivý otřes.
 
-  
+</section>
+
+<section>
 
 Hej, námořníku, pozor dej,  
 tam u kormidla bdi!  
@@ -165,7 +169,9 @@ hrdý krok bude znít.
 Probuď se do tmy vonící!  
 Teď, hochu, nesmíš snít!
 
-  
+</section>
+
+<section>
 
 Melodie ho opájela, ještě dlouho zněl jeho hlas beze slov, opakoval si rázný a smutný refrén námořnické písně. Bez touhy a bez myšlenek, dojat vzpomínkami na to, co bylo v jeho životě stejně nádherné a překvapivé jako tento nepatrný ráj na opuštěném ostro­vě, stál na kraji palouku, nadšen tím, že náhle ztratil paměť pro svízele a úsilí života, pro temná období lidského bytí, kdy spící duše trhá starý obal, než mávne třpytivými křídly. Obklopil ho zástup veselých, svátečních dnů. Ruce žen, které ho milovaly, hladily ho po tvářích jako hedvábné vlasy. Vynořila se v něm vzpomínka na hony v lesích jeho vlasti a na noci strávené pod hvězdnatým nebem, noci plné dobrovolného osamění, nebezpečí a zdaru. Se srdcem velkým a vzkříšeným viděl sebe sama tak, jako se vídal v hodinách snění na svazích opuštěných hor, tváří v tvář večerní zoři.
 
@@ -377,6 +383,10 @@ Tartovi se zatmělo před očima. Klidně se postavil výstřelům, v poraněn�
 
 Padal a trýznivě dlouho si nemohl uvědomit, proč vidí ty červené zášlehy výstřelů, proč leží naznak a proč znovu a znovu vnímá tupou bolest. A všechno se proměnilo v sen. Zatřpytily se jemné vodopády. Růžová žula, mokře lesklá, odrážela jejich pád. Sametová nádhera palouku se rozběhla k černým kořenům stromů, planoucích jak malé výhně – a náporem ticha se zavřely oči toho, jenž býval – Tart.
 
-  
+</section>
+
+<section>
 
 _1909_
+
+</section>

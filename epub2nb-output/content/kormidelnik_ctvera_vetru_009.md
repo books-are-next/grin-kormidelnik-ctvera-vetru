@@ -3,6 +3,8 @@ title: Kolonie Lanfieri
 contentType: prose
 ---
 
+<section>
+
 _Tak jako námořník,  
 jenž proplouvá Jurskou úžinou,  
 ani já nevím, kam se doberu  
@@ -176,7 +178,9 @@ Poslední uhlík se s praskotem na okamžik rozpálil, dostal barvu rozžhaven�
 
 Na svahu neklidně vyprskl rys, ztichl a ozval se znova a pak táhle, teskně, hrozivě vyjekl. Horn ho neslyšel, spal hlubokým spánkem, podobným smrti – to je ono skutečné štěstí, které tato země, království utrpení, lidem poskytuje.
 
-  
+</section>
+
+<section>
 
 Za pět dní na rovné obdélníkové ploše, hladce udusané a obehnané plůtkem, stál malý dům s pultovou střechou a s nezaskleným oknem, vedoucím k jezeru. Pevný, vlastnoručně vyrobený nábytek se skládal z lůžka, stolu a laviček. V koutě se tyčil veliký krb, uplácaný z hlíny.
 
@@ -668,7 +672,9 @@ Den se rozhořel, vzplanul modravým parnem. Z dusna, prosáklého pryskyřičn
 
 Pro přírodu ještě nebyl ani nebožtík, ani kastrát, ani žebrák v cizím sadu. Jeho lhostejnost stála na základech vnímání. On _sám_ byl Horn.
 
-  
+</section>
+
+<section>
 
 Kdykoli zaskřípaly venkovní dveře a na hliněnou podlahu hospůdky dopadl palčivý proud světla, pronášel vypasený muž skomíravým hlasem: „Pif, paf.“ Jako majitel hosty velebil, jako člověk je nenáviděl.
 
@@ -1076,7 +1082,9 @@ Horn chvíli postál, naslouchal, jak buší srdce noci, jak buší nezvučně j
 
 A kdesi vysoko nad jeho hlavou nejdřív sopránově, pak altově zazpívala osamělá kulka, opsala oblouk a neškodně dopadla do písku vedle vyplašeného mravence – táhl jakési dřevíčko, které velice potřeboval.
 
-  
+</section>
+
+<section>
 
 Horn ujel bez přestávky asi deset kilometrů. Přejel pláň, sestoupil k houštinám na přímořské plošině a octl se na silnici k městu.
 
@@ -1094,6 +1102,10 @@ A uskočil stranou dřív, než ho mohl zavalit padající kůň, jehož boky s
 
 Uklidněn tichem chvíli postál, vrhl poslední pohled tam, kde k němu rozpínal náruč život tak zbytečný, a vykročil po silnici.
 
-  
+</section>
+
+<section>
 
 _1909_
+
+</section>

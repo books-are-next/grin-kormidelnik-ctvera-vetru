@@ -3,6 +3,8 @@ title: "Paluba a\_podpalubí"
 contentType: prose
 ---
 
+<section>
+
 (Námořní obrázky)
 
 ## I
@@ -265,14 +267,18 @@ Birkin po špičkách proklouzl do kajuty, přikradl se k lodníkovu lůžku a�
 
 Martyn se rozzářil, hořel netrpělivostí. Skuba se střídavě díval na něho a na Birkina a pobrukoval si otřepanou písničku:
 
-  
+</section>
+
+<section>
 
 Pěkně ten pánbů stvořil svět,  
 lidí je na něm jako kvítí,  
 však sotva můžem chválu pět.  
 Vždyť moře vůbec není k pití!
 
-  
+</section>
+
+<section>
 
 „Tak co, Martyne?“ zeptal se Birkin.
 
@@ -434,6 +440,10 @@ Noc prchala na západ, v zlátnoucím jitru se rozehříval vzduch. Nafialověl
 
 „Vega“ zvedla kotvy a zamířila k jihovýchodu.
 
-  
+</section>
+
+<section>
 
 _1907_
+
+</section>

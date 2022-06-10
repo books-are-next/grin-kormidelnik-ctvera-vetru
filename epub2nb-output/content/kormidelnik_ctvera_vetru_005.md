@@ -3,6 +3,8 @@ title: Historie jedné vraždy
 contentType: prose
 ---
 
+<section>
+
 ## I
 
 Za okny strážnice zuřil prudký, řezavý vítr, cloumal střechou chatr­ného domku a probouzel v lidech unuděný, ospalý stesk. U nabarveného dřevěného stolu seděli kromě závodčího ještě dva, vojín Bannikov a svobodník Volavka. Závodčí, mladý poddůstojník, zasmušilý a věčně smutný člověk, listoval v řádu vnitřní služby a občas si ukousl z krajíce žitného chleba, ležícího na stole. Strašně se mu chtělo spát, ale přemáhal se a dělal, že je zahloubán do studia vojenských moudrostí. Stejně musí za dvacet minut provést střídání stráží. Ale hlavní důvod, proč si netroufal zdřímnout, byl strach z dozorčího důstojníka, který mohl každou chvilku vpadnout do strážnice a udělit závodčímu ostrou důtku nebo ho dokonce šoupnout do basy. A třeba desátník záviděl strážným, že se po každých dvou hodinách hlídky mohou celé čtyři hodiny prospat, vědomí vlastní hodnosti a převahy ho nutilo, že ještě víc vyvaloval ospalé oči a horlivě pohyboval rty, jak si opakoval nezvratné pravdy řádů.
@@ -335,6 +337,10 @@ S vyčkávavým úsměvem a s podivnou prázdnotou v hlavě ohmatal Bannikov
 
 Rozčilení zmizelo, vystřídal je tíživý, smrtelný neklid. Bannikov zvedl k ústům píšťalku a táhle, dlouze, klokotavě zapískal, volal závodčího.
 
-  
+</section>
+
+<section>
 
 _1908_
+
+</section>
