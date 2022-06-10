@@ -5,8 +5,6 @@ contentType: prose
 
 ## I
 
-  
-
 V poledne se Mattison Pad jako obvykle vzdálil na písečné svahy mysu. Z blůzy na chlupatých prsou mu trčely blyskotavé láhve a při každém šlápnutí bočitých nohou tesklivě vyzváněly, jako by neměly přelít svůj obsah do vyplechovaného žaludku virtuosa, nýbrž do ubohých vnitřností kojence.
 
 Padovi se přihodilo to, co se občas stává mnoha nevyrovnaným lidem, kteří tělesnou konstitucí a dokonalým nedostatkem nervů alespoň vzdáleně připomínají plemenného býka: propadl alkoholu. Nejstrašnější nápoje, které by na místě jako rána z pistole složily každého dragouna, měly na jeho organismus, naložený v lihu, týž účinek, jako když lehký vánek ověje sochu. Když se škuner motal mezi ostrovy, byl ten starý mořský vlk nejnešťastnější člověk na světě, a byl to lupič, který už viděl smrt tolikrát, co by napočítal zrníček v granátovém jablku.
@@ -40,8 +38,6 @@ Těžce padl na obličej – notná dávka alkoholu a slunce mu podrazila nohy
 „Zrovna když se to nejmíň hodí,“ zabručel Sigby. „Zejtra jsme měli odplout. Ten by mě naštval! Chlapi se zaručeně poperou. A tak je to vždycky,“ zakončil a vztekle dupl. „Tak je to vždycky, když někomu vlezou do palice divoký nápady. To má z toho, že nechlastal tak, jak ksakru chlastá každej, že neseděl pěkně u stolu pod střechou, jak se na správnýho námořníka sluší!“
 
 ## II
-
-  
 
 „Taky bys tam měl jít, Allane,“ řekl kuchař, když míjel lodní kuchyni. „Všichni jsou navztekaní, teď bys měl dávat dobrý pozor. Ono není k zahození poslechnout si, co chlapi říkají, vždyť jde možná taky o tebe.“
 
@@ -207,8 +203,6 @@ Půltuctu rukou mu dopadlo na ramena, ještě než domluvil. Ten drsný projev s
 
 ## III
 
-  
-
 Před druhou hodinou se všichni seřadili na zadní palubě. Námořníci přinesli Pada. Tělo, zašité v pytlovině, vypadalo jako obrovský svázaný tuleň. Položili je na desku stlučenou z prken, které používali při nakládce, a svérázná námořní rakev tiše sklouzla nohama napřed po palubě. Deska, kterou přidržovali tři námořníci, se zhoupla a zastavila. Mrtvý měl mezi chodidly pevně uvázanou olověnou příčku. Oceán byl klidný. Bělohlaví mořští orli měkce pluli nad vodou blízko břehu, jejich táhlé, ostré volání se neslo nad tichou, opuštěnou zemí. Harwey přistoupil k nebožtíkovi, smekl čapku a v té chvíli všichni zvedli ruce k hlavě – obnažili v palčivém slunci zátylky a krky, které měly barvu spálené hlíny.
 
 Harwey odříkal modlitbu – roztržitě hleděl do dálky, pletl se a těžce hledal slova. Pak si rukou zaclonil oči před mořem – to byla pobídka, aby námořníci poslouchali.
@@ -331,8 +325,6 @@ Allan přistoupil k zábradlí na boku lodi a odměřeně kývl hlavou.
 
 ## IV
 
-  
-
 Noc se řítila zběsilým cvalem. Večer prchal. Jeho barevný plášť, v běhu roztržený, prosvítal nad skalami jako rudé cáry, lemované modří. U břehů se houpala stříbrná vlákna mlhy, voda tmavla, z ohnivých křídel zapadajícího slunce kanuly husté stíny, země se zasnila, ptáci umlkli.
 
 Bylo bezvětří, mořské vlny těžce šplouchaly. Vesla jen nakrátko čeřila hladinu, voda byla líná jako sytá kočka. Allan se pomalu vzdaloval od škuneru. Těžkopádný člun se mdlými skoky pohyboval kupředu.
@@ -363,8 +355,6 @@ Odmlčel se, usedl, chopil se vesel a zprudka zabral – pobledl skrytou a v�
 
 ## V
 
-  
-
 „Hned se vrátím,“ řekl sluha, když postřehl, že Allan míří za ním. „Počkejte.“
 
 „Copak to není jedno?“ namítl Allan. „Přece s ní potřebuju mluvit já a ne vy.“
@@ -394,8 +384,6 @@ Dal se skoro do běhu – všude bylo prázdno, nikde známka života. Chodil z
 Na okamžik pocítil v nitru tupou bolest. Byl zmaten, vyjeven, byl strašlivě sám. Vrhl se do úzké chodbičky, vyběhl na zasklenou terasu, ozářenou sluncem, otevřel ještě jedny dveře a omráčen překvapením a udýchán se zastavil, všechna odvaha z něj rázem vyprchala.
 
 ## VI
-
-  
 
 Pokoj, kam tak prudce vtrhl, v jedné ruce pistoli, v druhé těžký balíček, vypadal nesmírně vesele. Na zdech byly tapety z proužkované bílé a růžové látky – místnost se trochu podobala vnitřku obrovského kufru. Na sluneční straně nebyla zeď – od podlahy se až ke stropu zvedala řada skel v šestihranných zelených rámech, vypadalo to jako průřez pláství, jen s tím rozdílem, že místo medu zde proudilo zlaté světlo. Naplňovalo celý pokoj, zaplavilo všecko. Podél skleněné stěny stály květinové stolky s popínavými rostlinami. Se stropu visela spleť šlahounů, tropické květiny se proplétaly, jejich poupata se chvěla jako bezelstná drobná chapadla. V rohu nad bambusovou houpací židlí se na tenkém kroužku houpal malý chocholatý papoušek. Uprostřed byl stůl, obklopený měkkými sněhobílými křesly. V stříbrné kávové soupravě se odráželo slunce.
 
@@ -539,8 +527,6 @@ Nakonec to rozjímání Stellu unavilo. Zastavila se před Allanem.
 
 ## VII
 
-  
-
 Zmatenými, mlhavými slovy, která klopýtala jako lidé v prchajícím zástupu, vypověděl Allan vše, co podle jeho soudu mohlo Stellu zajímat. Nepřerušovala ho, jen občas, když se zarazil, kývla hlavou a ťukla špičkou střevíčku do podlahy.
 
 Začal Padem, ale brzy, aniž to sám postřehl, pověděl všechno. Co chtěl říci? Poslechněte si píseň divocha, jenž pluje při východu slunce po velké řece. Složí vesla a přemýšlí nahlas hlubokými hrdelními nápěvy. Jeho myšlenky jsou květnaté a kupí se bez ladu a skladu – vzpomene si na kalenou střelu, ale ihned na ni zapomene, aby mohl vzdát chválu rozkvetlému stromu. Allan mluvil o smrti v krupobití střel, a smrt měla nevzhlednou tvář jako obyčejná pohmožděnina. Mluvil o tom, jak spravují pohyblivé lanoví a jak za horkých dnů polévají palubu vodou. Pověděl o parném tornádu a hned také přidal i bezvětří. Řekl o strašidelném černochu, o neštěstí, které lodím přinášejí kočky, o umění manévrovat proti větru, o tom, jak popel hojí rány, o světlech na moři i o strašidelných lodích. Pověděl o lehce zvlněné hladině i o tom, jak se loď houpá podélně i příčně, o nočních signálech, o létajících rybách, o nakládce zboží, o magnetických bouřích, kdy střelka kompasu tancuje jako pomatená, to všechno bylo v jeho slovech tak bytelné a zřejmé jako čerstvé ořechové prkno. Vyprávěl o bitkách, kdy piráti házejí polomrtvé námořníky přes palubu, kdy s nadávkami střílejí a vtipkují a přitom si tisknou ruku na prostřelenou hruď. A rázem – jako by chtěl setřít krev – přešel k brízám a pasátům a mistralům, k východoindickým cyklónům, k tichu nad oceánem a k vedrům, jež vyčerpávají a rozesmutní. K ranním a k večerním červánkům, k úskočným bouřím, k podmořským útesům, které rozpářou loď jako břitva.
@@ -585,8 +571,6 @@ Zapotácel se – otevřel dveře. Dívka-vidina mu zamyšleně hleděla do obl
 
 ## VIII
 
-  
-
 Od přímořské železniční stanice až k opuštěnému místu u kamenitého pobřežního srázu, kde ukryl člun, šel pěšky. Necítil ani únavu, ani hlad. Jedl nějaké medové koláčky, které si koupil u hokynáře. Ale možná, že se mu to jen zdálo.
 
 Když odstrčil loďku, chopil se vesel a vlny plavně odsunuly břeh nazpět, stesk, podobný osamělosti raněného v poušti, mu vtiskl do tváře stín bolestné myšlenky, jež letěla k městu. Chvílemi mu připadalo, že dlouho spal někde v slunečním žáru a probudil se s bolestí v prsou, neboť sen byl nádherný a něžný, a vidiny, naplněné trýzní lásky, míjely jeho lože, ale probudil se v parném poledním tichu sám. Z očí mu zářila vůle, soustředěná na jediný bod, a před nimi letělo všechno, co se stalo, a bylo to živé a jasné a zřejmé jako skutečnost a nemohl to zaplašit.
@@ -628,8 +612,6 @@ Nepřátelé se srazili a rozešli se. Mihla se kluzká kamenná hlava, rozlept
 Třásl se křečovitým smíchem. Odhodil veslo a usedl. Co s ním bylo dál, na to se nepamatoval. Vědomí měl otupené, slabým, chorobným úsilím myšlenky zachytil ještě šramot – člun uvázl na mělčině – suchý vzduch na břehu, ticho… Kdosi – snad to byl on – se brodil po kolena ve vodě, propadal se chodidly do měkkého jílu… Šumění lesa, mokrý písek, vyčerpání…
 
 ## IX
-
-  
 
 V opuštěném jitřním tichu si Allan protřel oči. Byl mokrý, omámený, zesláblý po nedávném vyčerpání. Ramena měl nateklá, bolela ho. Jeho vědomí bloudilo v mlhách, jako by se neviditelná ruka snažila zaclonit před jeho zrakem klidný příboj, blankytný záliv, kde kotvil „Sud prachu“, i jasnou, živou tvář předchozího dne.
 
@@ -723,6 +705,8 @@ U břehu vystoupil z člunu a narovnal se. Ztepilé obrysy opuštěné, dří
 
 Vykročil k obydleným místům a polohlasně si zpíval:
 
+  
+
 Jaká bláhovost, myslet, že tahle loď je svět.  
 Sbohem, kapitáne.  
 Vždyť já dobře vím, co je plachtoví a stěh.  
@@ -732,6 +716,8 @@ v náručí vod mě houpávala.
 Oceán, hvězdnaté hlubiny, to můj je rod,  
 vlna, která mě kolébala.
 
+  
+
 Odešel.
 
 Až bude umírat, sám a sám, řekne táž slova, plná něžné důvěry a smutku, řekne tvrdá a veliká slova:
@@ -739,5 +725,7 @@ Až bude umírat, sám a sám, řekne táž slova, plná něžné důvěry a s
 „Já přijdu!“
 
 On je šťasten, my však nikoli.
+
+  
 
 _1910_

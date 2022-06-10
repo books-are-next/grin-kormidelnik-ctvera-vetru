@@ -7,8 +7,6 @@ contentType: prose
 
 ## I
 
-  
-
 S pomalým, teskným rachotem se zvedaly jeřáby, kolečka uspěchaně klapala, zuřivě rámusily navijáky. Z vrat šedivých skladů se táhl pestrý řetěz nosičů. S bednami a soudky na zádech stoupali po příkrých můstcích, skládali břemena u ohromných čtvercových jícnů podpalubí a znova sbíhali dolů, strakatí jako harlekýni a špinaví jako země. Albánské a anatolské slunce pokrylo jejich obličeje bronzovou osmahlostí, ušetřilo jen zuby a oční bělmo.
 
 „Vega“ končila nakládku. Její pravidelný, jednotvárný život znalo celé město: měsíčně vykonávala dvě plavby, jednu okružní, jednu přímou. Uklizený, umytý parník, zdobený na přídi a na zádi zlatou řezbou, připomínal měšťáckého turistu, obklopeného nakladači, to byly škunery a naftové barkasy. Byl vším – byl to hotel i hostinec, nosič i agent – byl to mrzutý děda, který šlapal po jediném moři.
@@ -165,8 +163,6 @@ Odmítnutý pasažér vylezl na palubu a s veselou tváří se vracel domů. N
 
 ## II
 
-  
-
 „Z tebe jakživo nic nebude, Siňavskij. To ti říkám na rovinu, kamaráde! A já se v lidech vyznám.“
 
 „No no, to jsou věci,“ smutně zamumlal chlapec a nenávistně zašilhal po námořníkově přívětivém, ale prohnaném obličeji. „Copak já za to můžu, že se ti chce spát? Ty bereš plat, a já musím za stravu navalit devět rublů! To ti teda mockrát děkuju!“
@@ -269,10 +265,14 @@ Birkin po špičkách proklouzl do kajuty, přikradl se k lodníkovu lůžku a�
 
 Martyn se rozzářil, hořel netrpělivostí. Skuba se střídavě díval na něho a na Birkina a pobrukoval si otřepanou písničku:
 
+  
+
 Pěkně ten pánbů stvořil svět,  
 lidí je na něm jako kvítí,  
 však sotva můžem chválu pět.  
 Vždyť moře vůbec není k pití!
+
+  
 
 „Tak co, Martyne?“ zeptal se Birkin.
 
@@ -285,8 +285,6 @@ V tónu, jakým ta slova pronesl, byla obsažena spousta otázek: pít, nebo ne
 Poslední slova zaslechl Martyn v okamžiku, kdy jeho paty mizely v otvoru z podpalubí. Burak chvíli počkal, pak vyskočil také. V kajutě nastalo úplné ticho. Spáči chrápali, funěli, ale žádný se ani nepohnul.
 
 ## III
-
-  
 
 Když Birkin se Skubou osaměli mezi spáči, pleskli se po ramenou a zašklebili se. Věc se dařila. Ticho a šero bylo příznivé jejich záměru. Birkin obezřetně šmátral rukou v rohu podpalubí, pak postoupil dál, až nahmatal kov – byl to těžký visací zámek, spojující dvě půle železného příklopu do skladních prostorů v podpalubí. Skuba stál vzadu, rozčileně naslouchal a co chvíli sebou škubl – to, co prováděli, nebyl žert. Birkinovi dlouho trvalo, než opatrně zasunul klíč. Konečně pero cvaklo a petlice povolila. Námořník rychle odhrnul plachtovinu a vytáhl jeden dřevěný poklop, nejbližší od kraje. Skuba přidržel plachtovinu a popadl ho. Rozčilením ho polilo horko, hluboce, namáhavě dýchal a v duchu litoval, že nemá vodku nebo líh, to jsou ty pravé nápoje, které zahánějí strach.
 
@@ -333,8 +331,6 @@ Skuba zvedl ruku, aby zavřel poklop, ale škubl sebou, z podpalubí vylézal j
 Zamířil do kajuty – motal se jako opilý. Vyděšený Skuba třesoucími se prsty zavíral sklad. Zmocnil se ho tíživý nepokoj – úplně ztratil rozvahu.
 
 ## IV
-
-  
 
 Sychravá noční mlha vyhnala ze Siňavského poslední zbytky ospalosti. Vystřídalo je mrazení a pomstychtivá nenávist k dvounohému tvoru, zvanému „člověk“. Těžká, studená tma mu klížila oči a protivnými vlhkými doteky útočila na jeho tělo, zahřáté postelí. Ve vzduchu se vznášely dvě skvrny, červená a žlutá – byly to lucerny na hlavním stěžni a na kormidelně.
 
@@ -406,8 +402,6 @@ Před očima jim žhnulo ohnivé slovo „Výpověď!“, ale oba je vítali, ne
 
 ## V
 
-  
-
 Minulo půl hodiny a po všech koutech „Vegy“, od první třídy až do kotelny, od kuchyně až po společenské místnosti, se rozletěla podivná zvěst. Birkin oznámil, že se v podpalubí našla prázdná bedna, uzpůsobená tak, aby v ní mohl cestovat člověk. Majitele této „tajné kajuty“ se bohužel nepodařilo nalézt, ačkoli se o to všemožně snažili. Prohlédli všechno: záchranné čluny, kajuty, bedny na uhlí a na chleba, znova překontrolovali jízdenky, ale všichni cestující je měli v naprostém pořádku. Zřejmě šlo o podvodníka veliké ráže, vyklouzl, protože si nepochybně už v Oděse opatřil lístek a teď si klidně ležel někde v kajutě třetí třídy, zíval a chechtal se jim.
 
 „Jdu takhle…,“ vysvětloval Birkin cestujícím, kteří se kolem něho shlukli. „Tak jdu… a najednou slyším, že někdo chodí pod palubou. Teda já mám ohromný uši! Popadnu klíč, otevřu, vlezu tam… A najednou bác! Rána z pistole. Až jsem sebou praštil. Ale hned jsem vyskočil a v tom leknutí ne a ne zavřít poklop. A chlap za mnou, fofrem, ani jsem si ho nestačil prohlídnout. A teď ho hledejte… Možná, že tady stojí mezi námi a poslouchá…“
@@ -439,5 +433,7 @@ Loďka odrazila, zhoupla se v zelených vodních propadlinách jako racek, a k
 Noc prchala na západ, v zlátnoucím jitru se rozehříval vzduch. Nafialovělá mlha naposled polaskala hladinu a rozplynula se v nic.
 
 „Vega“ zvedla kotvy a zamířila k jihovýchodu.
+
+  
 
 _1907_

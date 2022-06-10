@@ -12,8 +12,6 @@ přes bezednou hlubinu lásky._
 
 ## I
 
-  
-
 Tři ukazováčky se zabodly směrem k rejdě. Holandská loď připlula večer. Noc zastřela její tvary. V černém zrcadlení moře se rozplýval barevný odraz stožárových světel a ozářených okének kajut.
 
 Bylo dokonalé bezvětří a hustá mlha voněla pryskyřicí, solí a zahnívajícími chaluhami.
@@ -146,8 +144,6 @@ Napřáhl ruku, obrátil se a udiveně mlaskl jazykem. Byl sám. Po nikom nebyl
 
 ## II
 
-  
-
 Nad rozkvetlým porostem jižních svahů se vznášely jemné pramínky páry. Nad lesem stál rozžhavený sluneční kotouč. Obloha vypadala jako nedozírný blankytný vnitřek obrovité koule, naplněné křišťálovou tekutinou. V tmavé zeleni se třpytila rosa, podivuhodné hlasy ptáků zaznívaly jako z podzemí. V jejich kadencích byla lenivá malátnost probuzení.
 
 Horn kráčel k západu, chtěl obejít řadu strží, které se táhly mezi kolonií a severním cípem lesa. Na zádech se mu houpala stará puška. Šaty měl pomačkané, noc strávil v lese. Šel pravidelnými, dlouhými kroky, pozorně se rozhlížel, vzdálenosti i půdu zkoumal očima hospodáře, který se po dlouhém čase vrátil domů.
@@ -180,6 +176,8 @@ Poslední uhlík se s praskotem na okamžik rozpálil, dostal barvu rozžhaven�
 
 Na svahu neklidně vyprskl rys, ztichl a ozval se znova a pak táhle, teskně, hrozivě vyjekl. Horn ho neslyšel, spal hlubokým spánkem, podobným smrti – to je ono skutečné štěstí, které tato země, království utrpení, lidem poskytuje.
 
+  
+
 Za pět dní na rovné obdélníkové ploše, hladce udusané a obehnané plůtkem, stál malý dům s pultovou střechou a s nezaskleným oknem, vedoucím k jezeru. Pevný, vlastnoručně vyrobený nábytek se skládal z lůžka, stolu a laviček. V koutě se tyčil veliký krb, uplácaný z hlíny.
 
 Horn ukončil práci. Byl pohublý a shrbený a klopýtal únavou, když se škrábal po úzkém pruhu mělčiny ke svahu. Vystoupil na vrchol a rozhlédl se.
@@ -189,8 +187,6 @@ Na severu se rozkládal tmavý les jako nehybné zelené stádo a na obzoru se 
 A na jihu, z prostředka mělkého údolí, kde svítily domy a farmy obklopené neúpravnou zelení, se táhly obdélníky plantáží a zoraných polí, které patřily ke kolonii Lanfieri.
 
 ## III
-
-  
 
 Dvoukolový kočárek přejel silnici Goupimu rovnou před nosem. Když farmář vyšel z oblaku štiplavého prachu, spatřil neznámého muže, který mu kráčel vstříc, a bezděky se zastavil. Neznal ho, ale zároveň mu připadalo, že už se někde viděli. Mlhavá vzpomínka na holandskou loď probudila jeho vrozenou zvědavost – smekl klobouk a uklonil se.
 
@@ -422,8 +418,6 @@ Obrátila se a vesele mávla rukou, a Hornovi se znovu zazdálo, že se její 
 
 ## IV
 
-  
-
 Nikdo Horna nebudil, zvedl se sám, s dokonale bystrým vědomím, aniž cítil ospalou malátnost těla, aniž zíval – jako by nespal, jako by pouze čekal se zavřenýma očima.
 
 Byl klidný, cítil jen lehké rozpaky – chtěl si ujasnit důvody, které jej probudily k vědomí a bez stopy zmizely. Opojné narůžovělé jitro pronikalo oknem jako vlahá mlha, jako slané tlení mělčiny, jako mlčelivý šramot, nezachytitelný stejně jako myšlenkový sled usínajícího. Nad jezerem se zvedal opar. Rozkolébaná pára se prostírala po hladině a obnažovala u břehů jasné, blankytné kaluže leklé vody.
@@ -513,8 +507,6 @@ Vášnivě zatoužil, aby žena něžného obličeje, která dávala jeho duši 
 Před očima se mu mihla vysoko zvednutá, vyzáblá ruka Lan­fieriho, a z té vzpomínky se roztřásl. Kolonie, z neznámých důvodů pojmenovaná po člověku, který před nepatrnou chvilkou usiloval o jeho život, mu teď připadala jako pobuda ve vyspravených šatech, vykukující za plotem. Když odcházel, pečlivě zavřel dveře.
 
 ## V
-
-  
 
 Cestou k rovině, těsně na kraji lesa, dostihla Horna malá šedivá kobylka. Jela rychlým cvalem. Seděla na ní Ester. Její soustředěný, veselý obličej skrytý ve stínu širokého klobouku pohlédl na Horna. Ten ožil a se spokojeným úsměvem čekal, dokud dívka neseskočila s koně a mlčky se k němu neobrátila, upravujíc sedlo. Osamělost ho netížila, ale povolovala otěže nejzuřivějším náporům stesku, a když se teď objevil hromosvod v podobě lidské, byl mimořádně potěšen, že má příležitost k rozhovoru. Šli vedle sebe. Malá šedá kobylka pomalu stříhala ušima a natahovala hlavu za dívčinými zády.
 
@@ -676,6 +668,8 @@ Den se rozhořel, vzplanul modravým parnem. Z dusna, prosáklého pryskyřičn
 
 Pro přírodu ještě nebyl ani nebožtík, ani kastrát, ani žebrák v cizím sadu. Jeho lhostejnost stála na základech vnímání. On _sám_ byl Horn.
 
+  
+
 Kdykoli zaskřípaly venkovní dveře a na hliněnou podlahu hospůdky dopadl palčivý proud světla, pronášel vypasený muž skomíravým hlasem: „Pif, paf.“ Jako majitel hosty velebil, jako člověk je nenáviděl.
 
 Ale hosté viděli ve vypaseném muži jen hostinského a nemilosrdně žádali broskvový likér a pivo a rum a palmové víno. Vypasený muž trpěl, sestupoval do sklepa, vylézal po schůdcích a zbrocen potem znova usedal na vysokou proutěnou židličku.
@@ -699,8 +693,6 @@ Lanfieri vstoupil nepozorovaně – zdálo se, že by své kostnaté tělo prot
 Stařec mlčel. Na svraštělých tvářích mu hrály svaly. Muži se vrátili ke kostkám. Lanfierimu nevěřili, ale každý z nich si někde v tmavém zákoutí paměti uložil lidi hloupé jako krokodýly, mizery a hovada.
 
 ## VI
-
-  
 
 S hlavou zakloněnou hleděl Bekeko vzhůru. Až u nebe se na ocase houpala opice. Kulatýma, stařecky dětinskýma očima si rychle prohlížela blázna, občas odtrhla zrak a odhadovala vzdálenost k nejbližšímu stromu.
 
@@ -868,8 +860,6 @@ Pravidelný cval Kingových kopyt rozrušil ticho a ztratil se.
 
 ## VII
 
-  
-
 Nemělo pražádný smysl uvažovat o psech. Ta blankytná říčka je nikdy nespatřila, a pokud ano, pak tedy hodně dávno, mnohem dřív než první lokomotiva projela plání, vzdálenou dvě stě mil od místa, kde Horn vkleče pil vodu a zlatý třpyt.
 
 Ale jak vytřásal do kapesníku hrst kovu, výsledek tříhodinové námahy, přistihl se náhle při vzpomínce na nejrůznější psy, které kdy viděl. Přemítal asi víc o dogách než o chrtech a vytrvaleji o honících psech než o mopslech. Úvahu uzavřel krátkým povzdechem. Zatvářil se soustředěně – narovnal se a pohlédl k ozářeným zeleným propastem lesa.
@@ -967,8 +957,6 @@ Vykročil lesem, zmítal jím nepokoj, spěchal k jezeru, jak mohl nejrychleji.
 Už běžel, ztrácel dech nervovým vypětím. Les ho propouštěl jako hlouček bezmocných přátel, v zamyšlení se před ním rozestupoval, odhaloval stinné propasti a Horn z nich slyšel šumění krve a rozmarných zelených vln.
 
 ## VIII
-
-  
 
 Dveře, zevnitř zabedněné, se otřásaly netrpělivým bušením, ale držely pevně. Horn rychle obracel pohled od nechráněného okna ke dveřím a zpět, navenek byl klidný, ale v nitru jím zmítala zuřivost a nejistota. Byla to chvíle, kdy podešev života klouže ve tmě nad propastí.
 
@@ -1088,6 +1076,8 @@ Horn chvíli postál, naslouchal, jak buší srdce noci, jak buší nezvučně j
 
 A kdesi vysoko nad jeho hlavou nejdřív sopránově, pak altově zazpívala osamělá kulka, opsala oblouk a neškodně dopadla do písku vedle vyplašeného mravence – táhl jakési dřevíčko, které velice potřeboval.
 
+  
+
 Horn ujel bez přestávky asi deset kilometrů. Přejel pláň, sestoupil k houštinám na přímořské plošině a octl se na silnici k městu.
 
 Tady se zastavil, šetřil síly koně, čekal honičku. Nalevo se z hluboké propasti noci ozývalo od jezera nepravidelné ťukání, jako by někdo bubnoval prsty do stolu, ztrácel rytmus a znovu vpadal do taktu. Horn naslouchal, pak se zachvěl a prudce pobídl koně.
@@ -1103,5 +1093,7 @@ Kdesi v hlubinách vědomí se mihl zamyšlený obličej Ester a zmizel zárov
 A uskočil stranou dřív, než ho mohl zavalit padající kůň, jehož boky se šíleně zvedaly.
 
 Uklidněn tichem chvíli postál, vrhl poslední pohled tam, kde k němu rozpínal náruč život tak zbytečný, a vykročil po silnici.
+
+  
 
 _1909_

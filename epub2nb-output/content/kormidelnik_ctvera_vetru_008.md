@@ -8,8 +8,6 @@ který by ho mohl zaslechnout._
 
 — Cervantes
 
-  
-
 Šel jsem potácivým krokem a křečovitě jsem se držel záhybů na jeho kabátě. Podobal jsem se tak plavidlu, které je vlečeno proti větru. Sunul se vytrvale kupředu, a jak se patří na mořského vlka, bedlivě obzíral tmu. Vítr měl rychlost bouře a hvízdal nám do uší jako tlupa nezvedených kluků. Alkohol, který jsme vypili, nám jakž takž zahříval vnitřnosti, kdežto pokožka, vydaná na pospas ledovým šlehům nočního povětří, zábla a tuhla. Hlavou mi občas bleskla vzpomínka na rozesmáté ženské rty. Pokud mi aspoň na jeden jediný okamžik bylo toho dne veselo, je to dobré.
 
 Nevím, kam jsme šli, ale tehdy jsem nikterak nepochyboval, že musíme jít právě oním směrem. Proč? Zeptejte se na to kormidelníka. Kráčel tak rychle, že ani já mu nestačil takovou otázku položit. Ba co víc, tenkrát mi ani nepřišla na mysl. Motal jsem se jako slepé štěně, veselý, opilý, mokrý a řečný. Žvanil jsem strašně a nekonečně. V nejkratší lhůtě, počítám-li ji od okamžiku, kdy jsme se obrátili zádí k prahu putyky „U Shledání námořníků“, vyložil jsem celé své nitro a obrátil je na ruby jako povlak na polštář. Vypověděl jsem všechny své tajnosti, lehkovážně jsem odhalil tajemství, vyjádřil všechny své pochybnosti a vyslovil jsem tolik názorů, že by jinému člověku vystačily na celý život. Navíc jsem se ještě zaklínal těmi nejhroznějšími přísahami, a když kormidelník začal souhlasně mručet, upadl jsem do nadšení téměř blouznivého.
@@ -49,5 +47,7 @@ Ale jeho vytrvalost byla veliká. Už hledal příhodný kámen, když se náhle
 „Ať se na prášek rozsype ten, kdo opouštěl tuhle kůlnu a nepřibil na ni lucernu s nápisem: Zde bydlí myši!“
 
 I vydali jsme se na cestu znova. Kormidelník rychle kráčel k přístavu, já se držel záhybů na jeho kabátě a sotva jsem mu stačil…
+
+  
 
 _1909_
