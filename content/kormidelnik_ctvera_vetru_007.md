@@ -10,8 +10,6 @@ jenž mluví beze zvuku._
 
 ## Jeden chybí
 
-  
-
 Poručík stál u pravého boku clipperu a zamyšleně se díval na zapadající slunce. Oceán majestátně podřimoval. V zlatém světle způli zakrytého rudého kotouče se nad zamženou čárou obzoru zvedal opar. Oceán rychle vsával ohnivou kouli, která se podobala obrovské kapce roztaveného kovu a napínala od svého zářivého kruhu až k lodi široký odraz světla, lesklý jako pruh nazlátlých šupin.
 
 Paprsků bylo stále méně, pohasínaly, sotva se dotkly vody i jak se kotouč měnil v úzký rudý vrchlík. Za poručíkovými zády nehlučně rostly stíny až k nadhlavníku. Vzduchem zavanul chlad. Světla stožárů se odrazila ve vodě rejdy, černé jako ztuhlý dehet, a Jižní kříž se rozsypal po sametovém nebi jako velké, zářivé brilianty. Bledá dálava obzoru se smršťovala a poručíkovi v té chvíli připadalo, že se dívá nepatrnou skulinkou z pootevřené tmavé krabičky. Poslední paprsek se váhavě kmitl obzorem, křečovitě vzplál a zhasl.
@@ -112,8 +110,6 @@ Kajuta se zaplnila. Přišel doktor, nadporučík a proviantní. Poručík proh
 
 ## Co říká les
 
-  
-
 Když se pět námořníků vylodilo na břeh a rozhodlo se, že dřív, než naplní sudy, rozhýbe si trochu nohy a párkrát si vystřelí po pernaté, oddělil se Tart od ostatních a vydal se nazdařbůh, prodíral se rozkvetlými keři a těšil se jako dítě z nádherných překvapení, která mu nabízel les. Obklopily ho neznámé houštiny, vlídné i divoké. Po namodralých, sytě rudých a hnědých kmenech přebíhal stín jako měňavá lesklá mřížka, stromy zvedaly rozcuchané koruny k obloze a jejich listí hrálo všemi odstíny od syté zeleně až po bledou barvu uschlé trávy. Tento svět neměl pojmenování a Tart jej přijímal mlčky. Pozornýma očima, otevřenýma dokořán, zpytoval jeho plachou krásu. Připadalo mu, že jakýsi rozmarný tvor vystříhal z ohromné zelené tkaniny nekonečné množství zvláštních ornamentů. Světlinami hustě pronikaly těžké paprsky slunce, podobaly se zlatým mečům na zeleném sametu. S pokřikem se tu vznášely tisíce barevných ptáků. Hnědí s malinovou chocholkou, žlutí s modrými křídly, zelení s červenými puntíky, černí s dlouhými fialovými ocásky, opeřenci všech barev se kmitali v houštinách, s křikem poletovali vzduchem a s rámusem poskakovali po větvích. Ti nejmenší vzpláli jako drahokam, když vylétli ze zelené tmy, a pohasli, sotva zmizeli v listí. Tráva se podobala nízkému houští nebo obrovitému mechu, vlnila se všemi směry a skrývala před lidským zrakem život plný tajemství. Zářivé fantastické květy opájely Tarta směsicí vůní. Nejvíc jich bylo na liánách, které se proplétaly v slunečním světle jako rostliny v prozářené vodě. Bílé, hnědé s průzračným žilkovím, matně růžové, modré – unavovaly zrak, dráždily, okouzlovaly.
 
 Tart šel jako opilý, byl omámen vlahým, vonným vzduchem a nevídaným bohatstvím země. Bukové lesy, které znal ze své vlasti, mu ve srovnání s tímto ostrovem připadaly jako olysalá hlava vedle černých kadeří. Zvědavě, se šťastnými rozpaky a s hlavou zakloněnou pozoroval stádo opic. Mávaly ocasy, houpaly se na větvích hlavou dolů, s rámusem a pištěním skákaly se stromu na strom a plašily ptáky. Zvířátka zmizela – Tartovi jednotvárně znělo v uších zpěvavé ticho lesa. Stál, držel prst na spoušti a soustředěně se usmíval. Pak si pomalu a nejasně uvědomil, že cítí na obličeji pohled neznámých očí, povzdechl si a bezděčně se rozhlédl.
@@ -142,6 +138,8 @@ Tartův zrak se znovu vrátil k trávě – palouk ho lákal, tak byl svěží
 
 Tart se prudce zachvěl láskou k světu – natáhl ruku a v duchu se dotkl skalnatých vrcholků. Jeho srdce se nadšeně přimklo k opuštěnému majestátu lesa – neviditelná hebká ruka ho objala kolem krku a Tart v tom objetí zadržoval dech, aby se nerozplakal. A tehdy zaznělo volání, jež probudilo les. Tart volal a v očích se mu leskly slzy. Jeho hlas letěl k vodopádům, rozbíjel se o kamenné stupně a v trojnásobné ozvěně se měnil v píseň, v píseň vášnivou a prostou, kterou vyvolal náhlý, trýznivý otřes.
 
+  
+
 Hej, námořníku, pozor dej,  
 tam u kormidla bdi!  
 Závětrnou plachtu podkasej,  
@@ -167,6 +165,8 @@ hrdý krok bude znít.
 Probuď se do tmy vonící!  
 Teď, hochu, nesmíš snít!
 
+  
+
 Melodie ho opájela, ještě dlouho zněl jeho hlas beze slov, opakoval si rázný a smutný refrén námořnické písně. Bez touhy a bez myšlenek, dojat vzpomínkami na to, co bylo v jeho životě stejně nádherné a překvapivé jako tento nepatrný ráj na opuštěném ostro­vě, stál na kraji palouku, nadšen tím, že náhle ztratil paměť pro svízele a úsilí života, pro temná období lidského bytí, kdy spící duše trhá starý obal, než mávne třpytivými křídly. Obklopil ho zástup veselých, svátečních dnů. Ruce žen, které ho milovaly, hladily ho po tvářích jako hedvábné vlasy. Vynořila se v něm vzpomínka na hony v lesích jeho vlasti a na noci strávené pod hvězdnatým nebem, noci plné dobrovolného osamění, nebezpečí a zdaru. Se srdcem velkým a vzkříšeným viděl sebe sama tak, jako se vídal v hodinách snění na svazích opuštěných hor, tváří v tvář večerní zoři.
 
 Sundal s ramene pušku, ulehl do trávy a s hrůzou pomyslel na to, že zítřek je nevyhnutelný – část života, věnovaná ostatním…
@@ -176,8 +176,6 @@ Točila se mu hlava z vůně květin. Vyčerpáním se mu třásly ruce i nohy
 Nevzpouzel se. Hluboká ospalost ho něžně spoutala. Pomalu se nořil do tiché, vonné hloubky, kde potkáváme splněná přání a radost, nezkalenou člověkem. Tart spal, a když se probudil, byla noc a temné ticho, plné hvězd.
 
 ## Blemer nalézá Tarta
-
-  
 
 Tart seděl s pokrčenýma nohama u ohně, naslouchal a přemýšlel. Celou noc nespal. Tíživý, zádumčivý neklid mu prohloubil vrásky na obličeji. Krájel tabák, ale měl nemotorné ruce, roztržitě sbíral kousky, které odletovaly od nože. Jistota, že není pozorován, dávala jeho obličeji výraz zvláštní nenucenosti, kdy každý sval i pohled vypráví o náladě stejně plynně jako čitelně opsaný dopis. Oheň líně praskal, syčel, klikatil se v naleštěné oceli pušky a bledě se odrážel v Tartových očích. Les dřímal v poledním parnu. Znělo v něm zastřené šumění neviditelného života, jitřilo srdce podivným kouzlem liduprázdna, obrovité síly a ticha.
 
@@ -307,8 +305,6 @@ Teď byl mrtev. Jeho silné tělo obklopila malá zelená armáda lesní trávy 
 
 ## „Garnache, Kohoutí ulice“
 
-  
-
 Na břehu až u vody stojí ve stínu obrovitého stromu pevný dubový sud, dobře přikrytý napuštěnou plachtovinou. Není na zámek – je to mezinárodní poštovní stanice. Lodi, které tady proplouvají, tam házejí dopisy, adresované do všech končin světa. Loď, plující do Austrálie, vybere australskou poštu, loď do Evropy převezme evropskou.
 
 Clipper se chystal k odplutí. Pomalu a vytrvale rachotil kotevní naviják, těžce se převracel v kovovém lůžku. Z vody se plazilo lano a táhlo za sebou kotvu, olepenou vodními řasami, bahnem a lasturkami. Námořníci, zesláblí vedrem, malátně bloumali po rozpálené vysmolené palubě a připevňovali zdvihací lanka nebo seděli na ráhnech a rozvinovali uschlé plachty. V té chvíli dorazil k břehu člun s šesti veslaři, na písek vyskočil podporučík a přistoupil k sudu. Odhrnul plachtovinu, vytáhl několik balíčků a vhodil dovnitř svazek dopisů.
@@ -380,5 +376,7 @@ Nedopověděl. Zároveň s obláčkem dýmu se jeho tělo svalilo do křoví a�
 Tartovi se zatmělo před očima. Klidně se postavil výstřelům, v poraněné ruce se mu zachvěla zbraň a spadla na zem. Zvedl ji druhou rukou a vystřelil do bílého obličeje, znetvořeného strachem.
 
 Padal a trýznivě dlouho si nemohl uvědomit, proč vidí ty červené zášlehy výstřelů, proč leží naznak a proč znovu a znovu vnímá tupou bolest. A všechno se proměnilo v sen. Zatřpytily se jemné vodopády. Růžová žula, mokře lesklá, odrážela jejich pád. Sametová nádhera palouku se rozběhla k černým kořenům stromů, planoucích jak malé výhně – a náporem ticha se zavřely oči toho, jenž býval – Tart.
+
+  
 
 _1909_

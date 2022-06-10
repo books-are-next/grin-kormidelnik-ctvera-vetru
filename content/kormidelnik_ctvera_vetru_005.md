@@ -5,8 +5,6 @@ contentType: prose
 
 ## I
 
-  
-
 Za okny strážnice zuřil prudký, řezavý vítr, cloumal střechou chatr­ného domku a probouzel v lidech unuděný, ospalý stesk. U nabarveného dřevěného stolu seděli kromě závodčího ještě dva, vojín Bannikov a svobodník Volavka. Závodčí, mladý poddůstojník, zasmušilý a věčně smutný člověk, listoval v řádu vnitřní služby a občas si ukousl z krajíce žitného chleba, ležícího na stole. Strašně se mu chtělo spát, ale přemáhal se a dělal, že je zahloubán do studia vojenských moudrostí. Stejně musí za dvacet minut provést střídání stráží. Ale hlavní důvod, proč si netroufal zdřímnout, byl strach z dozorčího důstojníka, který mohl každou chvilku vpadnout do strážnice a udělit závodčímu ostrou důtku nebo ho dokonce šoupnout do basy. A třeba desátník záviděl strážným, že se po každých dvou hodinách hlídky mohou celé čtyři hodiny prospat, vědomí vlastní hodnosti a převahy ho nutilo, že ještě víc vyvaloval ospalé oči a horlivě pohyboval rty, jak si opakoval nezvratné pravdy řádů.
 
 Volavka vzal aršík cigaretového papíru, z kapsy u kalhot vydoloval špaček tužky a při světle plechové lampy nakreslil cosi podobného prachárně a malé postavičce strážného; notně si při tom pomáhal jazykem a obočím. Strážnému chybělo jedno oko a nohy, takže to vypadalo, jako by stál po kolena v zemi, ale Volavka byl nicméně s kresbou navýsost spokojen. Přimhouřil oči, zachechtal se, až se mu roztřásly plné, masité tváře, pak podal papírek Bannikovovi a zeptal se:
@@ -73,8 +71,6 @@ Bannikov si upravil řemen, vytažený sumkou, sundal s hřebíku měděný ča
 
 ## II
 
-  
-
 Bannikov vojančil prvním rokem a často s hrůzou pomýšlel na to, že ho čekají ještě tři dlouhá svízelná léta. První týdny, ba dokonce první měsíce se mu na vojně líbilo, všechno bylo nové, udivovala ho ta přísnost a pravidelnost. Ale když všechno nové a zajímavé vy­prchalo a zbyla nudná povinnost a jednotvárnost, začala ho tížit strohá kázeň i společnost cizích, podrážděných lidí, kteří sem byli sehnáni ze všech koutů země a těžce se navzájem snášeli. Bannikov uměl číst a psát, byl to dobrácký, ostýchavý, mírný sedláček. I na vojně si uchoval v obličeji jakousi ženskou oblost, měl svěží růžové tváře, husté obočí a řasy, a to byl důvod k ustavičným žertům a přezdívkám, spíš hloupým než urážlivým, jako Mařka, Krasotinka, Andulka. Hned v prvních dnech vojančení bedlivě pozoroval vzájemné vztahy lidí, kteří ho obklopovali, a tak pochopil, že mladý a nezkušený nováček si nejvíc usnadní službu, když bude hledět zavděčit se velitelům. A tak to také dělal, ale nikdo ho neměl rád a nikdo k němu necítil nejmenší sympatie. Pokora a úslužnost, to jsou trumfy v životní hře. Ale každý vycítil, že se Bannikov k pokoře a k úslužnosti nutí a že svou ochotu dobře odměřuje. Kdykoli podával veliteli čety vyčištěnou pušku nebo naleštěné boty, kdykoli při první pobídce utíkal do krámu, kde nakupoval za své peníze, vždycky vypadal a tvářil se tak, jako by říkal, že to všechno dělá bez zvláštní chuti, ale beze zloby, protože je to nezbytné, protože je podřízený a protože také ví, jak to udělat, aby se mu na vojně žilo snáz. Každý to skutečně vycítil, a třeba ho velitelé nepronásledovali tak jako ostatní, vždycky mu při každé příležitosti dávali najevo, že za každý přestupek bude potrestán jako druzí. Ale Bannikov byl vždycky mlčelivý, pozorný, ochotný a soustředěný.
 
 Nakoupil v hospodě za dvě kopejky čaj, cukr a vřelou vodu, a když vyšel na ulici, pustil se málem do běhu, přidržoval víčko na čajníku a spěchal přes náměstí k prachárně. V uších mu hvízdal vítr a prudce mu dýchal do obličeje. Cestou si Bannikov všiml, že voda není vařící, jen teplá, a to ho zamrzelo. „Koupím to za vlastní, a ještě dostanu vynadáno,“ myslel si, mhouřil oči a skláněl hlavu před větrem. „Copak závodčí, ten ujde, ale ten darebák Volavka zas bude žvanit ty svoje pitomosti. To je služba, ach bože,“ povzdechl si nahlas, jako by se obracel k neviditelnému posluchači. „Aby do ní hrom bacil, jen kdybych to nějak odkroutil!“
@@ -100,8 +96,6 @@ Odpověď nedostal, zaslechl jen lehké pohvizdování. Už chtěl odejít, kdy�
 „Á-le!“ pochybovačně protáhl Bannikov. Ale zmocnil se ho podivný neklid, že se až zadýchal. Došel ke strážnici a otevřel dveře.
 
 ## III
-
-  
 
 Když Bannikov odešel, ubalil si Volavka cigaretu, ulehl na špinavá, oblýskaná prkna pryčny a zvednutýma nohama začal komíhat ve vzduchu a klapat podpatkem o podpatek. Měl mizernou náladu, dopalovalo ho, že jeho, svobodníka z poddůstojnického kursu, poslal velitel na stráž jako nějakého pitomého Bannikova. Stalo se to sice jen proto, že bylo málo vojáků, ale pomyšlení, že musí jako obyčejné ucho střídat Bannikova nebo Aljochina, kteří mu čistí boty a pušku, ho vyvádělo z míry. Se závodčím je stejně starý, ale závodčí už je desátník, má dvě frčky a dostává tři ruble služného, kdežto on je pořád ještě svobodník. To je nepochopitelné a urážlivé. Měl chuť spravit si náladu a trochu závodčího dopálit, a jak tak ležel a vyfukoval ke stropu kroužky tabákového kouře, řekl:
 
@@ -194,8 +188,6 @@ Kousek, který chtěl Volavkovi provést, dopadl smutně, a to ho zmátlo a ro
 „To máš radost, žes mi to přivolal, co, vráno jedna,“ utrhl se desátník. „Koukej, pán se nese s čajem.“
 
 ## VI
-
-  
 
 Bannikov postavil čajník na stůl a vesele se usmál, celý udýchaný a spokojený, že nešel nadarmo. Vyndal také cukr, zabalený v papírku, přistrčil ho k závodčímu a řekl:
 
@@ -293,8 +285,6 @@ Volavkovi se spát nechtělo. Dlouho zuřivě zíval a přemítal, jak ubít č
 
 ## V
 
-  
-
 Nebe se vybralo a v jeho modři se míhala studená záře hvězd. Jako by se v jejich světle rozjasnil prostor nad černými budovami, ale nad zemí se jako dřív prostírala teskná tma, burcující zrak i sluch. Bannikovova košile se matně bělala asi dvacet kroků od strážnice jako nehybný, ospalý bod. Volavka dlouho hleděl tím směrem, ruce v kapsách, a podupával jednou nohou.
 
 „Netykavka!“ řekl si v duchu. „Žere vojnu, náfuka. Já jsem akorát zvědavej na tvůj cukr!“
@@ -344,5 +334,7 @@ S vyčkávavým úsměvem a s podivnou prázdnotou v hlavě ohmatal Bannikov
 „A vím já vlastně, kdo to byl? Já to udělal podle předpisu. Já jsem v právu!“
 
 Rozčilení zmizelo, vystřídal je tíživý, smrtelný neklid. Bannikov zvedl k ústům píšťalku a táhle, dlouze, klokotavě zapískal, volal závodčího.
+
+  
 
 _1908_
