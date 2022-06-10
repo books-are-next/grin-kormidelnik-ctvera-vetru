@@ -3,6 +3,8 @@ title: Úžina mořských bouří
 contentType: prose
 ---
 
+<section>
+
 ## I
 
 V poledne se Mattison Pad jako obvykle vzdálil na písečné svahy mysu. Z blůzy na chlupatých prsou mu trčely blyskotavé láhve a při každém šlápnutí bočitých nohou tesklivě vyzváněly, jako by neměly přelít svůj obsah do vyplechovaného žaludku virtuosa, nýbrž do ubohých vnitřností kojence.
@@ -705,7 +707,9 @@ U břehu vystoupil z člunu a narovnal se. Ztepilé obrysy opuštěné, dří
 
 Vykročil k obydleným místům a polohlasně si zpíval:
 
-  
+</section>
+
+<section>
 
 Jaká bláhovost, myslet, že tahle loď je svět.  
 Sbohem, kapitáne.  
@@ -716,7 +720,9 @@ v náručí vod mě houpávala.
 Oceán, hvězdnaté hlubiny, to můj je rod,  
 vlna, která mě kolébala.
 
-  
+</section>
+
+<section>
 
 Odešel.
 
@@ -726,6 +732,10 @@ Až bude umírat, sám a sám, řekne táž slova, plná něžné důvěry a s
 
 On je šťasten, my však nikoli.
 
-  
+</section>
+
+<section>
 
 _1910_
+
+</section>

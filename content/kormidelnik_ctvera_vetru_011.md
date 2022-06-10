@@ -3,6 +3,8 @@ title: Fantasta ze Zurbaganu
 contentType: prose
 ---
 
+<section>
+
 O Alexandru Grinovi se málo píše i málo mluví. Naši literární vědci a kritici mlčelivě, nebo jen s několika konvenčními slovy uznání obcházejí jeho dílo. Zapomínají na autora, který má své trvalé a nadše­né čtenáře. Čtenáře, kteří nestrannému pozorovateli připadají jako zvláštní „grinovské bratrstvo“ – tak jsou oddaní, tak jsou zajatí autorovou fantazií a čistotou srdce. Neznám lepšího dotvrzení pro Grinovu životnost, než je příhoda, která se stala asi před osmi lety na Krymu. Výpravu dvaceti Čechů tehdy doprovázel devatenáctiletý vysokoškolák z Moskvy, zbožňovatel Konstantina Paustovského. V Simferopolu na jeden den výpravu opustil a uprchl, aby se poklonil hrobu Alexandra Grina v nedalekém Starém Krymu. Věděl, že bude za svévoli potrestán, a přece odešel.
 
 Síla Grinova snu byla větší než nepříjemné důsledky praktického života.
@@ -41,6 +43,10 @@ Před první světovou válkou psal hodně povídky. Ty, které jsou obsaženy v
 
 Grin svou tvorbou vstupoval v zápasy víry a cti s podlostí, falší, krutostí. V jeho osamělém boji je tragédie. Ale jeho vítězství nad sebou samým, jeho umělecké vítězství, má věčnou platnost. Oblaka, která plují nad jeho vybájenými městy, nad Zurbaganem, nad Gel-Gew, nad Lissem, mají tvar našich oblaků. Čtvero větrů, jež čeří Grinova moře, šumí v korunách našich stromů a vzdouvá romantické plachty našich oceánů. Poddejme se mu bez lichého přemítání a získáme cosi nepostižitelného, co nám navždy utkví v nitru. Jako Tart na ostrově Reno se zachvějeme prudkou láskou k světu a naše srdce se přimknou k opuštěnému majestátu lesa. I nás neviditelná hebká ruka obejme kolem krku a my v tom objetí budeme zadržovat dech, abychom se nerozplakali…
 
-  
+</section>
+
+<section>
 
 _Zdeňka Psůtková_
+
+</section>

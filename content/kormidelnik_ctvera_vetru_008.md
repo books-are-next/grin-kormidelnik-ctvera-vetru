@@ -3,6 +3,8 @@ title: Kormidelník „čtvera větrů“
 contentType: prose
 ---
 
+<section>
+
 _… V celém širém okolí nebylo člověka,  
 který by ho mohl zaslechnout._
 
@@ -48,6 +50,10 @@ Ale jeho vytrvalost byla veliká. Už hledal příhodný kámen, když se náhle
 
 I vydali jsme se na cestu znova. Kormidelník rychle kráčel k přístavu, já se držel záhybů na jeho kabátě a sotva jsem mu stačil…
 
-  
+</section>
+
+<section>
 
 _1909_
+
+</section>
