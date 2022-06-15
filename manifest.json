@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "grin-kormidelnik-ctvera-vetru-87dc9da",
-  "revision": "87dc9da",
+  "identifier": "grin-kormidelnik-ctvera-vetru-f9377f7",
+  "revision": "f9377f7",
   "readingOrder": [
     "promo.html",
     "kormidelnik_ctvera_vetru_005.html",
@@ -21,8 +21,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:54:19 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157259502
+    "date": "Wed Jun 15 2022 05:49:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272166827
   },
   "documents": [
     {
@@ -402,9 +402,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 138,
-      "chars": 877,
-      "ideas": 18,
+      "words": 158,
+      "chars": 1059,
+      "ideas": 19,
       "role": "colophon",
       "order": null,
       "prev": "kormidelnik_ctvera_vetru_011.html",
@@ -422,9 +422,9 @@
   ],
   "totals": {
     "all": {
-      "words": 49314,
-      "chars": 302113,
-      "ideas": 1562
+      "words": 49334,
+      "chars": 302295,
+      "ideas": 1563
     },
     "chapters": {
       "words": 49170,
