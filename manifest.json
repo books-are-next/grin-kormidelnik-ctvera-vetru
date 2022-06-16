@@ -5,10 +5,11 @@
   "title": "Kormidelník čtvera větrů",
   "author": "Alexandr Grin",
   "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "grin-kormidelnik-ctvera-vetru-f9377f7",
-  "revision": "f9377f7",
+  "identifier": "grin-kormidelnik-ctvera-vetru-f67d842",
+  "revision": "f67d842",
   "readingOrder": [
     "promo.html",
     "kormidelnik_ctvera_vetru_005.html",
@@ -21,8 +22,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:49:26 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272166827
+    "date": "Thu Jun 16 2022 07:29:20 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364560454
   },
   "documents": [
     {
@@ -422,9 +423,9 @@
   ],
   "totals": {
     "all": {
-      "words": 49334,
-      "chars": 302295,
-      "ideas": 1563
+      "words": 49335,
+      "chars": 302303,
+      "ideas": 1564
     },
     "chapters": {
       "words": 49170,

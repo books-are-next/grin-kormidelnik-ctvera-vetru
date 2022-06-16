@@ -11,8 +11,9 @@ meta:
   author: Alexandr Grin
   publisher: Městská knihovna v Praze
   modified: '2022-03-17T00:00:00.000Z'
-  publisherShort: MKP
+  publisherShort: mkp
   isbn: 978-80-274-2245-6; 978-80-274-2244-9; 978-80-274-2246-3
+  edition: beletrie
 readingOrder:
   - promo.html
   - kormidelnik_ctvera_vetru_005.html
