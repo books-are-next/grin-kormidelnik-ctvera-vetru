@@ -8,8 +8,9 @@
       "author": "Alexandr Grin",
       "publisher": "Městská knihovna v Praze",
       "modified": "2022-03-17T00:00:00.000Z",
-      "publisherShort": "MKP",
-      "isbn": "978-80-274-2245-6; 978-80-274-2244-9; 978-80-274-2246-3"
+      "publisherShort": "mkp",
+      "isbn": "978-80-274-2245-6; 978-80-274-2244-9; 978-80-274-2246-3",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola\nMLP_uroven2_kapitola\n",
