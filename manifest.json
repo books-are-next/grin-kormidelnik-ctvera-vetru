@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "grin-kormidelnik-ctvera-vetru-f67d842",
-  "revision": "f67d842",
+  "identifier": "grin-kormidelnik-ctvera-vetru-5f33392",
+  "revision": "5f33392",
   "readingOrder": [
     "promo.html",
     "kormidelnik_ctvera_vetru_005.html",
@@ -22,8 +22,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 16 2022 07:29:20 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655364560454
+    "date": "Thu Jun 23 2022 10:03:58 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655978638933
   },
   "documents": [
     {
