@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "grin-kormidelnik-ctvera-vetru-5f33392",
-  "revision": "5f33392",
+  "identifier": "grin-kormidelnik-ctvera-vetru-7cf3eae",
+  "revision": "7cf3eae",
   "readingOrder": [
     "promo.html",
     "kormidelnik_ctvera_vetru_005.html",
@@ -19,11 +19,11 @@
     "kormidelnik_ctvera_vetru_009.html",
     "kormidelnik_ctvera_vetru_010.html",
     "kormidelnik_ctvera_vetru_011.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:03:58 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978638933
+    "date": "Thu Jul 07 2022 08:24:35 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182275888
   },
   "documents": [
     {
@@ -389,12 +389,12 @@
       "role": "chapter",
       "order": 7,
       "prev": "kormidelnik_ctvera_vetru_010.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "Fantasta ze Zurbaganu",
+          "name": "Fantasta ze Zurbaganu",
           "id": null,
           "children": []
         }
@@ -402,11 +402,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 158,
-      "chars": 1059,
+      "chars": 1058,
       "ideas": 19,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "kormidelnik_ctvera_vetru_011.html",
       "next": null,
@@ -424,7 +424,7 @@
   "totals": {
     "all": {
       "words": 49335,
-      "chars": 302303,
+      "chars": 302302,
       "ideas": 1564
     },
     "chapters": {

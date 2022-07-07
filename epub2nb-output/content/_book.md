@@ -23,7 +23,7 @@ readingOrder:
   - kormidelnik_ctvera_vetru_009.html
   - kormidelnik_ctvera_vetru_010.html
   - kormidelnik_ctvera_vetru_011.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
