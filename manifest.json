@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "grin-kormidelnik-ctvera-vetru-5a6207e",
-  "revision": "5a6207e",
+  "identifier": "grin-kormidelnik-ctvera-vetru-e03086e",
+  "revision": "e03086e",
   "readingOrder": [
     "promo.html",
     "kormidelnik_ctvera_vetru_005.html",
@@ -22,8 +22,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:00:00 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188000307
+    "date": "Thu Jul 21 2022 14:39:39 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414379959
   },
   "documents": [
     {
@@ -404,7 +404,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 158,
-      "chars": 1058,
+      "chars": 1059,
       "ideas": 19,
       "role": "about",
       "order": null,
@@ -424,7 +424,7 @@
   "totals": {
     "all": {
       "words": 49335,
-      "chars": 302302,
+      "chars": 302303,
       "ideas": 1564
     },
     "chapters": {
